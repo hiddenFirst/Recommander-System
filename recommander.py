@@ -53,9 +53,47 @@ train_loader = DataLoader(train_dataset, batch_size=batch_size, shuffle=True)
 val_loader = DataLoader(val_dataset, batch_size=batch_size, shuffle=False)
 
 
-# ------ define two-tower model -------
+# ------ define individual towers -------
+# each tower is initially defined very simple: with two fully connected layers followed by a RELU activation function
+
 class UserTower(nn.Module):
     def __init__(self, input_dim, **kwargs):
         super(UserTower, self).__init__()
         self.fc1 = nn.Linear(input_dim, 64)
         self.fc2 = nn.Linear(64,32)
+    def forward(self, x):
+        x = self.fc1(x)
+        x = self.relu(x)
+
+        x = self.fc2(x)
+        x = self.relu(x)
+        return x
+
+class ItemTower(nn.Module):
+    def __init__(self, input_dim, **kwargs):
+        super(ItemTower, self).__init__()
+        self.fc1 = nn.Linear(input_dim, 64)
+        self.fc2 = nn.Linear(64,32)
+    def forward(self, x):
+        x = self.fc1(x)
+        x = self.relu(x)
+
+        x = self.fc2(x)
+        x = self.relu(x)
+        return x
+
+# ------ define two-tower model -------
+
+class TwoTowerModel(nn.Module):
+    def __init__(self, user_dimension, item_dimension):
+        super(TwoTowerModel, self).__init__()
+        self.user_tower = UserTower(user_dimension)
+        self.item_Tower = ItemTower(item_dimension)
+    def forward(self, user_input, item_input):
+        # using dot product to get score - higher dot product = higher score
+
+        user = self.user_tower(user_input)
+        item = self.item_tower(item_input)
+
+        dot_product = torch.sum(user * item, dim=-1)
+        return dot_product
