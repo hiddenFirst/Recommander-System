@@ -1,0 +1,1304 @@
+food ID,food,Caloric Value,Fat,Carbohydrates,Sugars,Protein,Dietary Fiber,Cholesterol,Sodium
+0,cream cheese,51,5,0.8,0.5,0.9,0,14.6,0.016
+1,neufchatel cheese,215,19.4,3.1,2.7,7.8,0,62.9,0.3
+2,requeijao cremoso light catupiry,49,3.6,0.9,3.4,0.8,0.1,0,0
+3,ricotta cheese,30,2,1.5,0.091,1.5,0,9.8,0.017
+4,cream cheese low fat,30,2.3,1.2,0.9,1.2,0,8.1,0.046
+5,cream cheese fat free,19,0.2,1.4,1,2.8,0,2.2,0.1
+6,gruyere cheese,116,9.1,0.1,0.1,8.3,0,30.8,0.2
+7,cheddar cheese,113,9.3,0.9,0.1,6.4,0,27.7,0.2
+8,parmesan cheese,71,4.5,0.6,0.046,6.4,0,12.2,0.2
+9,romano cheese,19,1.3,0.2,0.088,1.6,0,5.2,0.008
+10,parmesan cheese grated,21,1.4,0.7,0.075,1.4,0,4.3,0.043
+11,port salut cheese,465,37.2,0.8,0.8,31.4,0,162.4,0.7
+12,swiss cheese,98,7.7,0.4,0,6.7,0,23.3,0.057
+13,goat cheese hard,128,10.1,0.6,0.6,8.6,0,29.7,0.076
+14,gouda cheese,100,7.7,0.6,0.6,7,0,31.9,0.2
+15,pepper jack cheese lucerne,75,6,0,0,5,2.5,0,0
+16,caraway cheese,106,8.3,0.9,0,7.1,0,26.3,0.2
+17,gjetost cheese,1058,67,96.8,0,21.9,0,213.4,1.4
+18,tilsit cheese,136,10.4,0.8,0,9.8,0,40.8,0.3
+19,goat cheese,103,8.4,0.009,0.031,6.1,0,22.4,0.1
+20,brick cheese,111,8.9,0.8,0.2,7,0,28.2,0.2
+21,asadero cheese,402,31.9,3.2,3.2,25.5,0,118.7,0.7
+22,camembert cheese,90,7.3,0.1,0.1,5.9,0,21.6,0.3
+23,provolone cheese reduced fat,310,19.9,4,0.6,27.9,0,62.2,1
+24,roquefort cheese,314,26,1.7,0,18.3,0,76.5,1.5
+25,queso blanco cheese,366,28.7,3,2.1,24,0,82.6,0.8
+26,queso seco cheese,315,23.6,2,0.5,23.8,0,75.7,1.8
+27,goat cheese soft,75,6,0,0.3,5.2,0,13,0.1
+28,mozzarella cheese,90,6.6,0.7,0,6.7,0,23.7,0.1
+29,chihuahua cheese,494,39.2,7.3,7.3,28.5,0,138.6,0.8
+30,limburger cheese,98,8.2,0.1,0.1,6,0,27,0.2
+31,muenster cheese,486,39.7,1.5,1.5,30.9,0,126.7,0.8
+32,queso fresco cheese,365,29.1,3.6,2.8,22.1,0,84.2,0.9
+33,brie cheese,100,8.3,0.1,0.1,6.2,0,30,0.2
+34,pimento cheese,525,43.7,2.4,0.9,31,0.1,131.6,2
+35,mexican cheese,316,21.7,3.8,0.6,27.7,0,69.4,0.9
+36,feta cheese,80,6.4,1.2,0,4.3,0,26.7,0.3
+37,mozzarella cheese fat free,159,0,4,1.7,35.8,2,20.3,0.8
+38,provolone cheese,463,35.1,2.8,0.7,33.8,0,91.1,1.2
+39,anejo cheese,492,39.6,6.1,6.1,28.3,0,138.6,1.5
+40,honey,64,0,17.3,17.2,0.08,0.025,0,0.011
+41,apple butter,35,0.063,8.5,7.1,0.045,0.3,0,0.003
+42,fruit jam,56,0.095,13.8,9.7,0,0.2,0,0.052
+43,chocolate hazelnut spread,100,5.5,11.5,10,1,1,0,0.099
+44,peanut butter,88,7.4,3.6,1,3.3,0.9,0,0.085
+45,peanut spread,101,8.5,2.2,0.5,3.8,1.2,0,0.028
+46,chicken spread,88,9.8,2.3,0.3,10.1,0.2,31.4,0.4
+47,cheese spread,708,68.6,8.4,8.4,17,0,216,1.2
+48,tahini,86,7.2,3.9,0,2.7,1.4,0,0.098
+49,orange marmalade,49,0,13.3,12,0.014,0.1,0,0.016
+50,american cheese spread,46,3.4,1.4,1.2,2.6,0,8.8,0.3
+51,apricot jam,48,0.01,12.9,8.7,0.1,0.044,0,0.004
+52,chunky peanut butter,94,8,3.5,1.3,3.8,1.3,0,0.03
+53,ham and cheese spread,37,2.8,0.3,0,2.4,0,9.2,0.2
+54,chicken and rice casserole homade,27,1,2.4,0,2,0.3,0,0
+55,picnic loaf,65,4.7,1.3,0,4.2,0,10.6,0.3
+56,corn tamale,309,12,44.3,12.3,5.8,5.3,0,0.5
+57,baked potato with cheese sauce bacon,451,25.9,44.4,0,18.4,0,29.9,1
+58,chinese egg roll,223,10.6,24.3,0,7.4,2.3,14.2,0.4
+59,butter croissant,231,12,26.1,6.4,4.7,1.5,38.2,0.2
+60,enchilada with cheese beef,323,17.6,30.5,0,11.9,0,40.3,1.3
+61,corned beef hash with potatoes,387,24.2,21.9,0.8,20.6,2.6,75.5,1
+62,biscuit with egg cheese bacon,436,25.3,35.4,2.5,17.4,0.3,240.7,1.2
+63,bagel with ham egg cheese,483,18.5,52.4,7,26.7,0.4,242.6,1.3
+64,quesadilla with chicken,529,27.5,43.3,3.4,27.1,3.1,66.6,1.3
+65,corn rice,110,0.3,25.2,3,1.8,0.4,0,0.2
+66,kung pao chicken,779,42.2,41.5,18.3,59,9.1,157,2.4
+67,beef empanada,298,16.3,27.8,1.6,10.1,1.8,23.1,0.4
+68,frijoles with cheese,225,7.8,28.7,0,11.4,0,36.7,0.9
+69,burrito with beef,285,8.1,43.9,4.1,9.1,4.4,2.6,0.5
+70,crispy chicken sandwich,350,17.6,33.2,3.9,14.8,0,0,0.7
+71,enchilada with cheese,374,25.3,21.2,3.6,15.4,2.6,57.5,0.7
+72,pork egg roll,189,6.1,25.1,4.5,8.4,1.8,11.9,0.3
+73,corn on the cob with butter,155,3.4,31.9,0,4.5,0,5.8,0.056
+74,pancakes with butter syrup,260,7,45.4,0,4.1,0,29,0.6
+75,burrito with beans,224,6.7,35.7,0,7,0,2.2,0.5
+76,scrambled eggs,100,7.6,1,0.8,6.5,0,200.2,0.1
+77,baked potato with sour cream,393,22.3,50,0,6.7,0,24.2,0.2
+78,turkey and gravy,161,6.3,11.1,0,14.1,0,43.2,1.3
+79,chicken egg roll,158,3.6,22.8,4.5,8.4,1.9,11.2,0.4
+80,vegetable egg roll,153,3.6,25,5.3,5.2,2.2,0,0.4
+81,ham cheese roll,67,5.2,1.1,0,3.8,0,16.2,0.3
+82,biscuit with ham,386,18.4,43.8,2.2,13.4,0.8,24.9,1.1
+83,lemon chicken,1440,74.9,122,55.2,68.6,7,203.8,1.5
+84,hummus,435,21.1,49.5,0.7,12,9.8,0,0.6
+85,croissant with egg cheese,368,24.7,24.3,0,12.8,0,215.9,0.6
+86,enchirito with cheese beef beans,344,16.1,33.8,0,17.9,0,50.2,1.3
+87,sweet sour pork,38,2.2,3.3,1.4,1.2,0.1,3.4,0.003
+88,crab cake,160,10.4,5.1,0,11.3,0.2,82.2,0.5
+89,egg dinner roll,107,2.2,18.2,1.5,3.3,1.3,17.5,0.2
+90,english muffin with egg cheese sausage,472,29.9,28.8,2.5,22.1,0.3,269,0.8
+91,buttermilk pancakes,86,3.5,10.9,0,2.6,0,22,0.2
+92,omelet,94,7.1,0.4,0.2,6.4,0,190.9,0.013
+93,taco with chicken cheese lettuce,185,6.2,19.3,1.3,13,1.2,28.4,0.6
+94,spinach souffle,230,17.6,8,2.5,10.7,1,160.5,0.8
+95,english muffin with cheese sausage,365,22.3,27.3,2.1,14.3,0.5,46.4,0.7
+96,potato gratin,328,18.6,27.6,0,12.4,4.4,56.4,1.1
+97,biscuit with egg,436,25.3,35.4,2.5,17.4,0.3,240.7,1.2
+98,french fries deep fried,222,10.5,29.4,0.2,2.4,2.7,0,0.1
+99,sweet sour chicken,46,2.3,4.4,2.1,1.8,0.2,4.9,0.043
+100,burrito with beans beef,460,18,47,5.3,27.8,7.2,62.7,1.4
+101,nachos with cinnamon sugar,592,36,63.4,0,7.2,0,39.2,0.4
+102,arroz con grandules,209,5.7,35.4,0,4,1.6,0,0.7
+103,chili con carne,271,8.8,33.1,4.7,14.7,8.3,22.8,1.1
+104,arroz con abichuelas,223,5.4,37.3,0.2,6.2,4.1,0,0.6
+105,biscuit with sausage,412,27.1,33.3,1.8,10.7,0.4,31.1,0.9
+106,vegetarian stew,304,7.4,17.3,3.1,42,2.7,0,1
+107,chicken sandwich with cheese,632,38.8,41.6,0,29.4,0,77.5,1.2
+108,biscuit with egg steak,410,28.4,21.3,0,17.9,0,272.3,0.9
+109,taco salad,212,11.2,17.9,0,10,0,33,0.6
+110,succotash,213,1.5,46.8,0,9.7,0,0,0.5
+111,nachos with cheese jalapeno peppers,608,34.1,60.1,0,16.8,0,83.6,1.7
+112,biscuit with egg ham,442,27,31.4,4.2,20.4,0.8,299.5,1.4
+113,ladyfingers,103,2.6,16.9,7.2,3,0.3,62.5,0.016
+114,mozzarella steak fried,102,5.9,7.7,0.7,4.6,0.6,10.2,0.2
+115,tamale navajo,285,11.4,33.7,1.8,11.7,5.8,31.6,0.8
+116,blueberry pancakes,84,3.5,11,0,2.3,0,21.3,0.2
+117,chimichanga with beef cheese,443,23.4,39.3,0,20.1,0,51.2,1
+118,egg cheese sandwich,340,19.4,25.9,0,15.6,0,290.5,0.8
+119,biscuit with egg bacon,458,31.1,28.6,3.3,17,0.8,352.5,1.3
+120,pupusas con queso,300,15.5,26.2,1.4,13.7,3.4,37.4,0.5
+121,apple croissant,145,5,21.1,0,4.2,1.4,17.7,0.2
+122,refried red beans,336,16.1,36,0,11.7,11,0,0.9
+123,tostada with guacamole,180,11.6,16,0,6.2,0,19.6,0.4
+124,chicken sandwich,468,20.9,39.1,6.8,30.4,2.6,65.5,1.4
+125,fried rice,228,3.2,43.4,0.6,6.5,1.5,32.2,0.6
+126,pupusas del cerdo,283,12.7,28.1,1.8,14,3.2,35.4,0.5
+127,turkey pot pie,699,34.9,70.3,0,25.8,4.4,63.5,1.4
+128,cheese croissant,331,16.7,37.6,9.1,7.4,2.1,45.6,0.3
+129,chimichanga with beef,425,19.7,42.8,0,19.6,0,8.7,0.9
+130,french toast with butter,178,9.4,18,0,5.2,0,58.1,0.3
+131,ham egg cheese sandwich,347,16.3,30.9,0,19.2,0,246,1
+132,english muffin with butter,189,5.8,30.4,0,4.9,0,12.6,0.4
+133,savoury noodle one pan dinner tandaco,172,1.2,5.5,0,0,0,0,0
+134,ham cheese sandwich,352,15.5,33.3,0,20.7,0,58.4,0.8
+135,sweet gefilte fish,35,0.7,3.1,0,3.8,0,12.6,0.2
+136,poached egg,72,4.7,0.4,0.2,6.3,0,185,0.1
+137,tostada with beef cheese,315,16.3,22.8,0,19,0,40.8,0.9
+138,tostada with beans cheese,223,9.9,26.5,0,9.6,0,30.2,0.5
+139,pork tamale,247,12.8,22.4,0.7,10.4,3.4,28.4,0.7
+140,nachos with cheese,274,17.2,27.9,1.7,3.5,2.6,2.4,0.3
+141,pulled pork in barbecue sauce,418,11,46.7,37.8,32.8,3,87.2,1.7
+142,baked potato with cheese sauce,474,28.7,46.5,0,14.6,0,17.8,0.4
+143,baked beans,310,10.3,43.3,0,11.1,11,10,0.8
+144,arroz con frijoles,220,5.6,35.6,1.3,6.8,5,0,0.6
+145,taco with beef cheese lettuce,156,8.8,13.7,0.6,6.1,2.7,19.3,0.3
+146,burrito with beans cheese beef,165,6.6,19.8,0,7.3,0,61.9,0.5
+147,egg mix,30,2.2,0.098,0.091,2.4,0,81.5,0.012
+148,falafel,57,3,5.4,0,2.3,0,0,0.081
+149,taco salad with chili con carne,193,8.8,17.7,0,11.6,0,3.5,0.6
+150,wonton wrappers,93,0.5,18.5,0,3.1,0.6,2.9,0.2
+151,hushpuppies,512,20.5,69.9,3.1,11.7,4.3,68.4,1
+152,chicken pot pie,598,34.6,57.3,7.2,14.6,3,51.3,1.2
+153,general tsos chicken,1578,87.5,128.3,62.1,69,4.8,283.6,2.3
+154,burrito with beans cheese,379,11.2,57.8,3.2,13.6,7.8,9.3,1
+155,vegetarian fillets,247,15.3,7.7,0.7,19.6,5.2,0,0.4
+156,biscuit with egg sausage,505,33.6,34.1,1.5,18,0.3,260.8,1.1
+157,chicken chow mein,513,16.9,50.1,10.5,40.8,6,96.6,1.9
+158,fruit burrito,231,9.5,35,0,2.5,0,3.7,0.2
+159,arroz con leche,369,9.3,63,38.6,8.1,1.3,20.2,0.3
+160,caramel custard flan,444,12.3,69.7,70.8,13.9,0,275.4,0.2
+161,gelatin dessert,167,0,38.3,36.4,3.3,0,0,0.2
+162,chocolate milk dessert,229,1.4,51.6,51.6,5.9,0,0,0.1
+163,chocolate mousse,338,24,24.1,22.2,6.2,0.9,210,0.081
+164,dulce de leche,60,1.4,10.5,9.5,1.3,0,5.5,0.036
+165,apple crisp,454,9.7,87,55.5,4.9,3.9,0,1
+166,spinach spaghetti cooked,182,0.9,36.6,0,6.4,0,0,0.061
+167,corn pasta cooked,176,1,39.1,0,3.7,6.7,0,0
+168,spaghetti with meat sauce,255,2.9,43.1,7.4,14.3,5.1,17,0.7
+169,pasta with meatballs in tomato sauce,273,13,28.3,7.2,10.6,6.9,23,0.7
+170,cheese tortellini,332,7.8,50.8,1,14.6,2.1,45.4,0.4
+171,pasta with sliced franks in tomato sauce,227,6,32,8,11,4,22.7,0.7
+172,lasagna,166,6.1,18.9,3.8,9,2.1,20.9,0.5
+173,macaroni cheese,310,9.4,43.7,3,12.6,2.3,15.1,0.9
+174,vegetable lasagna,316,13.7,32.2,5.8,15.6,4.3,31.8,1
+175,spinach egg noodles cooked,211,2.5,38.8,1.1,8.1,3.7,52.8,0.068
+176,cheese lasagna,316,13,33.6,10.3,15.9,4.1,31.6,0.7
+177,pasta with tomato sauce,176,1.8,35.1,10.1,5.6,2.3,15.1,1
+178,spinach pasta cooked,37,0.3,7.1,0,1.4,0,9.3,0.004
+179,vegetable chicken soup,166,4.8,21.1,3.4,12.3,1,16.9,0.075
+180,bean ham soup,198,2.5,33.5,7.8,10.3,9.8,4.9,0.5
+181,cream of chicken soup,227,14.5,18,1.4,6,0,20.2,1.8
+182,tomato soup canned,139,3.3,22.6,16.5,6.3,1.5,10.1,0.5
+183,egg drop soup,65,1.5,10.3,0.2,2.8,1,55.4,0.9
+184,scotch broth,197,6.4,23,0,12.1,3,11.9,2.1
+185,cream of onion soup,268,12.8,31.7,11.1,6.7,1.2,36.6,1.9
+186,chicken broth dry,10,0.2,1.1,0,0.7,0,0.6,1.2
+187,vegetable soup with beef broth,162,3.8,26.3,4,6,3.2,2.5,1.3
+188,chili with beans canned,287,14.1,30.5,3,14.6,11.3,43.5,1.3
+189,beef noodle soup,168,6.2,17.9,5.2,9.6,1.5,10,1.6
+190,consomme dry,17,0.2,1.9,1.1,2.2,0,0,0.8
+191,chicken mushroom soup,126,6.1,15.1,1,2,4,10.1,0.8
+192,beef vegetable soup,120,2.9,15.4,3.1,8,3,17.5,0.8
+193,black bean soup,234,3.4,39.6,6.4,12.4,17.5,0,2.5
+194,split pea soup with ham bacon,189,3.1,28.6,0,11.6,4.1,4.1,1
+195,cream of mushroom soup,199,13.4,17.1,1,3.4,1.8,0,1.7
+196,green pea soup,320,5.7,51.7,16.7,16.7,10,0,1.7
+197,chicken broth soup,78,2.6,1.9,0.9,11.1,0,2.5,1.6
+198,chicken mushroom chowder soup,431,23.7,38.3,0,16.2,7.5,32.3,1.8
+199,chicken dumplings soup,235,13.4,14.7,1.4,13.6,1.2,80.5,1.8
+200,chicken vegetable soup,148,5.6,17,3,7.1,1.7,16.9,1.7
+201,turkey vegetable soup,72,3,8.6,2.6,3.1,0.5,2.4,0.9
+202,wonton soup,71,0.6,11.7,0.8,4.6,0.4,8.9,0.9
+203,beef stock,31,0.2,2.9,1.3,4.7,0,0,0.5
+204,mushroom barley soup,186,5.5,29.3,0,4.6,0,0,1.7
+205,gazpacho soup,70,0.4,6.6,2.2,10.7,0.7,0,1.1
+206,beef mushroom soup,186,7.3,15.9,0,14,0.6,15.3,2.2
+207,chicken rice soup,127,3.2,13,1.4,12.3,1,12,0.9
+208,pepperpot soup,100,4.5,9.1,0,6.2,0.5,9.7,0.9
+209,vegetable soup,149,4,24.6,7.9,4.3,1.3,0,1.3
+210,chili beef soup,308,6.7,49.6,13.4,13.4,6.6,26.3,2.1
+211,chicken soup,174,6.5,16.9,2.1,12.4,1.5,29.4,0.9
+212,bean with frankfurters soup,188,7,22,0,10,0,12.5,1.1
+213,pea soup,161,2.8,25.6,8.3,8.3,4.9,0,0.015
+214,turkey soup,135,4.4,14.1,0,10.2,0,9.4,0.9
+215,stockpot soup,201,7.8,23.1,0,9.8,0,7.7,2.1
+216,hot sour soup,91,2.8,10.1,1,6,1.2,48.9,0.9
+217,cheese soup,203,9.7,28,9.3,2,5.5,7.4,1.7
+218,cream of potato soup,186,4.7,32.2,3.6,3.8,3.3,2.5,1.5
+219,bean with bacon soup,106,2.1,16.4,0.6,5.5,9,2.7,0.9
+220,fish stock,40,1.9,0,0,5.3,0,2.3,0.4
+221,split pea soup with ham,381,8.9,56.2,0,20.7,4.6,16.2,1.7
+222,beef broth soup,17,0.5,0.01,0,2.7,0,0,0.9
+223,lentil soup with ham,139,2.8,20.2,0,9.3,0,7.4,1.3
+224,tomato soup,98,0.7,22.5,12.2,2.2,1.6,0,0.6
+225,fish broth,39,1.5,1,0.2,4.9,0,0,0.5
+226,chili without beans canned,283,17,14.6,0,18.1,0,50.4,0.9
+227,minestrone soup,167,5,22.6,3.7,8.6,2,2.5,1.3
+228,clam chowder soup,154,4.4,24.5,6.8,4.4,3,5,1.8
+229,tomato vegetable soup,54,0.8,9.9,2.4,1.9,0.7,0,0.3
+230,cream of rice coup,127,0.2,28.1,0.022,2.2,0.2,0,0.4
+231,cream of celery soup,181,11.2,17.7,3.4,3.3,1.5,27.7,1.3
+232,chicken gravy,188,13.6,12.9,1.9,4.6,1,4.8,1
+233,tomato rice soup,240,5.5,44.1,15.2,4.2,3.4,2.6,1.6
+234,vegetable beef soup,128,2,9.6,0,18.1,4.4,8.8,1.1
+235,tomato beef noodle soup,281,8.6,42.3,0,8.9,3,7.5,1.8
+236,oyster stew soup,118,7.7,8.2,0,4.2,0,27.1,1.8
+237,ramen noodle soup dry,371,13.3,53.9,1.3,8.9,2,0,1.7
+238,chicken noodle soup,145,4.7,18.4,0,7.2,2.7,24.2,2.1
+239,chicken bouillon dry,11,0.6,0.7,0.7,0.7,0,0.5,1
+240,cream of asparagus soup,174,8.2,21.5,1.8,4.6,1,10.1,1.7
+241,turkey noodle soup,139,4,17.3,1,7.8,1.5,10.1,1.6
+242,cream of shrimp soup,181,10.4,16.5,0,5.6,0.5,32.8,1.7
+243,bean with pork soup,335,11.5,44.1,7.8,15.3,15.3,5.2,1.7
+244,chicken broth,12,0.5,1,0,1,0,0,0.9
+245,beef broth powder,8,0.3,0.6,0.6,0.6,0,0.4,0.9
+246,split pea soup,180,2.3,29.9,12.8,9.7,4.8,5.1,0.4
+247,escarole soup,61,4,4,0,3.4,0,5.5,2.3
+248,chicken stock,86,2.9,8.5,3.8,6,0,7.2,0.3
+249,tomato bisque soup,248,5,47.7,0,4.5,2.1,10.3,1.8
+250,shark fin soup,99,4.3,8.2,0,6.9,0,4.3,1.1
+251,onion soup,113,3.5,16.4,6.7,7.5,1.7,0,1.3
+252,chicken gumbo soup,113,2.9,16.8,4.9,5.3,4,7.6,1.7
+253,crab soup,95,0.8,12.5,0,10.4,2.4,41.5,0.6
+254,tripe soup,148,5.2,8.1,0,17.2,0,118,0.8
+255,little india little lunch,164,10.6,2,0,0,0,0,0
+256,original chicken sandwich chick fil a,125,5.1,0,0,0,0,0,0
+257,sausage mcmuffin mcdonalds,383,24.2,28.2,2.2,14.6,1.6,44.9,0.8
+258,sausage mcgriddles mcdonalds,421,24,42.2,15.2,11.4,1.4,32.4,1
+259,crispy chicken drumstick kentucky fried chicken,70,3,0,0,10.6,0,56.2,0.2
+260,chicken crispy drumsticks kentucky fried chicken,156,10.1,4.5,0,11.8,0,62.1,0.4
+261,biscuit kentucky fried chicken,185,9.1,22.1,1.7,3.8,0.8,0.5,0.5
+262,english muffin mcdonalds,97,2.3,2.9,1.5,5.7,0.2,20.7,0.031
+263,french fries mcdonalds,378,18.1,49.8,0.2,4,4.6,0,0.2
+264,hotdog,383,23,28.5,0,16.4,0,69.8,1.1
+265,french fries burger king,207,9.2,28.6,0.4,2.4,2.1,0,0.2
+266,original taco with beef cheese lettuce taco bell,158,8.8,13.7,0.6,6.1,2.7,19.3,0.3
+267,hotdog with chili,296,13.4,31.3,0,13.5,0,51.3,0.5
+268,chicken crispy wings kentucky fried chicken,148,10.1,5.1,0,9.2,0,47.1,0.3
+269,egg white delight mcdonalds,250,16,0,0,0,0,0,0
+270,french toast sticks burger king,73,3.7,8.7,2.1,1.3,0.3,0,0.014
+271,mcchicken mcdonalds,358,17.3,36.6,4.7,13.7,1.7,35.4,0.8
+272,nachos supreme taco bell,480,26.6,45,0,14.8,8,37.1,0.8
+273,crispy chicken wing kentucky fried chicken,104,5.3,1.3,0,12.6,0,64.2,0.3
+274,chicken strips burger king,105,5.5,7.4,0,6.6,0.5,15.8,0.3
+275,crispy chicken breast kentucky fried chicken,214,6.7,0.4,0,38.2,0,121.8,0.7
+276,sausage biscuit mcdonalds,440,29.7,31.8,2.3,11.3,1.4,33.9,1
+277,sausage burrito mcdonalds,339,17.1,24.2,1.4,13,1.2,172.9,0.8
+278,onion rings fried,27,1.6,2.8,0.4,0.3,0.2,0,0.015
+279,onion rings burger king,379,23,39.7,4.9,3.5,2.5,0,0.7
+280,turkey patty fried,79,5,4.4,0.053,3.9,0.1,21,0.2
+281,hotcakes with syrup mcdonalds,601,17.8,101.8,45.5,9,2,19.9,0.6
+282,crispy chicken thigh kentucky fried chicken,163,9.1,0,0,20.4,0,107.4,0.5
+283,corn dog,195,9.4,21,5.9,6.7,0.8,34.3,0.5
+284,chicken box mcdonalds,70,4,5.5,0.5,0.2,0,0,0
+285,potato wedges kentucky fried chicken,379,19.8,45,0,5.4,4.2,0,1
+286,scrambled eggs mcdonalds,98,7.5,0.9,0.1,7.7,0,217.8,0.04
+287,egg mcmuffin mcdonalds,287,12.2,27.3,2.7,17.2,1.4,207.9,0.8
+288,nachos taco bell,362,21.9,36,0,5.1,3.8,4,0.5
+289,biscuit large mcdonalds,310,14.4,39.4,2.7,5.5,1.8,0,0.9
+290,crispy chicken strips kentucky fried chicken,129,7.2,6.4,0,9.5,0.7,24,0.4
+291,hotcakes mcdonalds,113,2.9,19,4.4,3,0.7,6.4,0.2
+292,chicken crispy breast kentucky fried chicken,375,23.2,11.9,0,29.7,0,106.4,0.8
+293,hotcakes sausage mcdonalds,776,34.9,102.4,45.7,15.5,2.1,50.2,0.9
+294,chicken mcnuggets mcdonalds,48,3.2,2.4,0.025,2.5,0,7,0.009
+295,chips chipotle,151,7.1,2.1,2.1,0.2,0,0,0
+296,biscuit mcdonalds,261,12.2,33.3,2.2,4.7,1.5,0,0.7
+297,rice bowl with chicken,36,0.4,6.4,1.2,1.6,0.2,4.5,0.064
+298,spaghetti with meatballs,200,8.2,22.9,5.8,8.7,5.4,14,0.6
+299,meat ravioli canned,259,8.9,36,6.3,8.9,4.2,13.1,0.9
+300,cheese ravioli canned,186,3.5,33,9,6,3.1,7.3,0.7
+301,premium crispy chicken ranch blt sandwich mcdonalds,586,22.9,59.8,13.3,35.3,3.4,72,1.2
+302,steak sandwich,459,14.1,52,0,30.3,0,73.4,0.8
+303,cheeseburger burger king,380,19.7,31.5,6,19.4,3.7,59.9,0.8
+304,cheeseburger mcdonalds,313,14,33.1,7.4,15.4,1.3,41.7,0.7
+305,double cheeseburger,643,36.9,41,9.5,37,2.1,114,0.9
+306,double hamburger,942,58.6,51.4,13.2,52.1,5.2,172,1.1
+307,premium grilled chicken classic sandwich mcdonalds,366,8.6,44.6,10,28.3,2.8,68,0.8
+308,big n tasty with cheese mcdonalds,573,36,39.7,9.5,27.2,3.2,91.4,1
+309,premium grilled chicken club sandwich mcdonalds,493,18,44.3,6.4,38.3,2.7,102.6,1
+310,quarter pounder mcdonalds,417,19.8,37.9,8.8,24.1,2.7,66.7,0.7
+311,premium crispy chicken classic sandwich mcdonalds,524,20,58.6,12.4,27.8,3.2,59.8,1
+312,veggie burger,124,4.4,10,0.7,11,3.4,3.5,0.4
+313,quarter pounder with cheese mcdonalds,513,28.3,39.7,9.8,29,2.8,93.5,1.2
+314,beef sandwich steak raw,173,15.1,0,0,9.2,0,39.8,0.043
+315,cheeseburger,292,13.2,28.7,5.9,15,1.6,41.4,0.6
+316,premium grilled chicken ranch blt sandwich mcdonalds,412,10.9,44.3,10.5,33.7,2.8,76.8,1
+317,double whopper with cheese burger king,1061,68.1,53.9,14.4,57.7,6.4,187.5,1.5
+318,big mac mcdonalds,563,32.8,44,8.7,25.9,3.5,78.8,1
+319,sandwich with cold cuts,833,39.3,79.9,12.4,41.1,4.7,105.6,2.2
+320,filet o fish mcdonalds,378,19.6,35.4,4.9,15.1,1.9,42.9,0.6
+321,hand breaded chicken tenders carls jr,57,2.9,0.2,0,0,0,0,0
+322,grilled chicken sandwich wendys,370,8,0,0,0,0,0,0
+323,sandwich with roast beef,410,13,44.3,0,28.6,0,73.4,0.8
+324,hamburger burger king,258,10.4,26.5,5.5,14.7,2,34.7,0.5
+325,big n tasty mcdonalds,524,31.7,38.5,8.8,24.7,3.2,76.6,0.7
+326,roast beef sandwich,364,15.3,33.1,5.7,22.6,1.9,44.7,1
+327,roast beef sandwich with cheese,473,18,45.4,0,32.2,0,77.4,1.6
+328,hamburger,255,9.9,28.7,5.8,12.9,1.7,28.1,0.5
+329,premium fish sandwich burger king,572,27.4,58.7,7.8,22.6,2,68.2,1.3
+330,whopper burger king,790,48.4,52.8,13,35.4,3.2,113.8,1.4
+331,sandwich with tuna salad,584,28,55.4,0,29.7,0,48.6,1.3
+332,original chicken sandwich burger king,569,29.2,52.2,6,24.2,4.8,61.7,1.3
+333,double whopper burger king,942,58.6,51.4,13.2,52.1,5.2,172,1.1
+334,premium crispy chicken club sandwich mcdonalds,635,29.9,57.4,12.7,39.1,3,96.5,1.2
+335,hamburger mcdonalds,251,9.6,28.8,5.7,12.3,1.2,25.7,0.5
+336,pepperoni pizza dominos,308,12.6,36,4.2,12.7,2.4,28.3,0.7
+337,sausage pizza,325,14.3,35.5,3.9,13.3,2.7,26.7,0.7
+338,pepperoni pizza,313,13.2,35.5,3.6,13,2.6,27.8,0.8
+339,pepperoni pizza pizza hut,269,10.9,30.3,3.5,12.3,1.6,25,0.8
+340,cheese pizza pizza hut,260,10.5,30,3.2,11.5,1.7,23,0.7
+341,cheese pizza,285,10.4,35.7,3.8,12.2,2.5,18.2,0.6
+342,cheese pizza dominos,278,9.7,35.9,4.3,11.7,2.4,18.4,0.6
+343,meat vegetable pizza,332,14.8,34.5,5.1,15,3,36.7,0.8
+344,sucker raw,146,3.7,0,0,26.6,0,65.2,0
+345,northern pike raw,348,2.7,0,0,76.3,0,154.4,0.2
+346,haddock cooked,135,0.8,0,0,30,0,99,0.4
+347,burbot cooked,104,0.9,0,0,22.3,0,69.3,0.1
+348,pollock cooked,356,3.8,0,0,75.3,0,274.8,0.3
+349,rainbow smelt raw,27,0.7,0,0,5,0,19.8,0.019
+350,whitefish cooked,265,11.6,0,0,37.7,0,118.6,0.1
+351,walleye pike raw,148,1.9,0,0,30.4,0,136.7,0.011
+352,carp cooked,275,12.2,0,0,38.9,0,142.8,0.1
+353,wolffish cooked,293,7.3,0,0,53.4,0,140.4,0.3
+354,snapper cooked,218,2.9,0,0,44.7,0,79.9,0.066
+355,roe cooked,58,2.3,0.5,0,8.1,0,135.6,0.055
+356,anchovy raw,37,1.4,0,0,5.8,0,17,0.012
+357,herring raw,291,16.6,0,0,33,0,110.4,0.2
+358,cod raw,189,1.5,0,0,41.1,0,99.3,0.1
+359,tilapia raw,111,2,0,0,23.3,0,58,0.009
+360,whiting cooked,84,1.2,0,0,16.9,0,60.5,0.018
+361,skipjack tuna cooked,407,4,0,0,86.9,0,184.8,0.1
+362,salmon cooked,733,44,0,0,78.7,0,224.3,0.2
+363,chum salmon cooked,474,14.9,0,0,79.5,0,292.6,0.2
+364,american shad cooked,363,25.4,0,0,31.3,0,138.2,0.043
+365,shark cooked,65,3.9,1.8,0,5.3,0,16.7,0.068
+366,trout cooked,118,5.3,0,0,16.5,0,45.9,0.027
+367,swordfish raw,196,9,0,0,26.7,0,89.8,0.1
+368,rainbow trout cooked,119,5.2,0,0,16.9,0,49.7,0.041
+369,fish sandwich with cheese,374,19.6,35.4,4.9,15.1,0,49.6,0.6
+370,jellyfish dried,21,0.8,0,0,3.2,0,2.9,5.6
+371,mullet raw,139,4.5,0,0,23,0,58.3,0.098
+372,halibut cooked,353,5.1,0,0,71.7,0,190.8,0.3
+373,lingcod raw,213,2.7,0,0,44.2,0,130,0.1
+374,orange roughy cooked,30,0.3,0,0,6.4,0,22.6,0.079
+375,cisco raw,77,1.5,0,0,15,0,39.5,0.042
+376,florida pompano cooked,186,10.7,0,0,20.8,0,56.3,0.05
+377,snapper raw,218,2.9,0,0,44.7,0,80.7,0.1
+378,fish sandwich,565,27.4,58.7,7.8,22.6,0,77,1.3
+379,haddock raw,143,0.9,0,0,31.5,0,104.2,0.4
+380,ocean perch raw,51,1,0,0,9.8,0,33.3,0.2
+381,cuttlefish cooked,45,0.4,0.5,0,9.2,0,63.4,0.2
+382,cod cooked,189,1.5,0,0,41.1,0,99,0.1
+383,seatrout raw,248,8.6,0,0,39.8,0,197.5,0.1
+384,flounder raw,114,3.1,0,0,20.2,0,73.4,0.5
+385,spot cooked,79,3.1,0,0,11.9,0,38.5,0.022
+386,walleye pike cooked,148,1.9,0,0,30.4,0,136.4,0.069
+387,perch raw,55,0.6,0,0,11.6,0,54,0.037
+388,pumpkin seed sunfish raw,43,0.3,0,0,9.3,0,32.2,0.06
+389,salt mackerel,415,34.1,0,0,25.2,0,129.2,6.1
+390,mackerel cooked,231,15.7,0,0,21,0,66,0.064
+391,tilapia cooked,111,2.3,0,0,22.8,0,49.6,0.011
+392,drum raw,236,9.8,0,0,34.7,0,126.7,0.1
+393,atlantic croaker fried,192,11,6.6,0,15.8,0.3,73.1,0.3
+394,pumpkin seed sunfish cooked,42,0.3,0,0,9.2,0,31.8,0.046
+395,wolffish raw,294,7.3,0,0,53.6,0,140.8,0.3
+396,bluefin tuna cooked,276,9.4,0,0,44.9,0,73.5,0.02
+397,scup cooked,68,1.8,0,0,12.1,0,33.5,0.061
+398,herring cooked,290,16.6,0,0,32.9,0,110.1,0.2
+399,bluefish raw,186,6.4,0,0,30.1,0,88.5,0.028
+400,sheepshead cooked,234,3,0,0,48.4,0,119,0.1
+401,bass cooked,91,2.9,0,0,15,0,53.9,0.078
+402,pout cooked,279,3.2,0,0,58.4,0,183.6,0.2
+403,chinook salmon raw,709,41.3,0,0,78.9,0,198,0.2
+404,rockfish raw,172,2.6,0,0,35.1,0,95.5,0.1
+405,tilefish raw,371,8.9,0,0,67.6,0,193,0.2
+406,scup raw,174,4.5,0,0,31.3,0,86.3,0.082
+407,sablefish cooked,755,59.3,0,0,51.9,0,190.3,0.2
+408,tuna salad,383,19,19.3,0,32.9,0,26.7,0.8
+409,coho salmon cooked,255,11.8,0,0,34.7,0,90.1,0.06
+410,roe raw,20,0.9,0.2,0,3.1,0,52.4,0.052
+411,sea bass raw,125,2.6,0,0,23.8,0,52.9,0.084
+412,pink salmon cooked,349,12,0,0,56,0,125.4,0.2
+413,sockeye salmon cooked,493,17.3,0,0,82.1,0,189.1,0.3
+414,whitefish raw,265,11.6,0,0,37.8,0,118.8,0.1
+415,greenland halibut cooked,760,56.4,0,0,58.6,0,187.6,0.3
+416,northern pike cooked,350,2.7,0,0,76.5,0,155,0.2
+417,salmon raw,824,53.1,0,0,80.9,0,217.8,0.2
+418,turbot cooked,388,12,0,0,65.4,0,197.2,0.6
+419,surimi,28,0.3,1.9,0,4.3,0,8.5,0.042
+420,chinook salmon cooked,711,41.2,0,0,79.2,0,261.8,0.2
+421,mullet cooked,140,4.5,0,0,23.1,0,58.6,0.001
+422,chum salmon raw,3,0.1,0,0,0.6,0,2.1,0.029
+423,butterfish raw,47,2.6,0,0,5.5,0,20.8,0.072
+424,sea bass cooked,125,2.6,0,0,23.9,0,53.5,0.058
+425,greenland halibut raw,759,56.5,0,0,58.6,0,187.7,0.3
+426,halibut raw,371,5.4,0,0,75.7,0,199.9,0.3
+427,sturgeon cooked,184,7,0,0,28.2,0,104.7,0.019
+428,fish fillet fried,211,11.2,15.4,0,13.3,0.5,30.9,0.5
+429,rainbow trout raw,111,4.9,0,0,15.8,0,46.6,0.022
+430,pout raw,278,3.2,0,0,58.6,0,183,0.2
+431,rainbow smelt cooked,35,0.9,0,0,6.4,0,25.5,0.047
+432,monkfish raw,22,0.4,0,0,4.1,0,7.1,0.059
+433,trout raw,117,5.2,0,0,16.4,0,45.8,0.051
+434,shark raw,37,1.3,0,0,5.9,0,14.4,0.003
+435,burbot raw,104,0.9,0,0,22.4,0,69.6,0.1
+436,dolphinfish cooked,173,1.4,0,0,37.7,0,149.5,0.2
+437,crayfish cooked,25,0.4,0,0,5,0,38.8,0.058
+438,dolphinfish raw,173,1.4,0,0,37.7,0,148.9,0.2
+439,perch cooked,54,0.5,0,0,11.4,0,52.9,0.043
+440,cusk raw,106,0.8,0,0,23.2,0,50,0.086
+441,bluefin tuna raw,41,1.4,0,0,6.6,0,10.8,0.013
+442,milkfish cooked,54,2.4,0,0,7.4,0,19,0.076
+443,carp raw,277,12.2,0,0,38.9,0,143.9,0.1
+444,sturgeon raw,30,1.1,0,0,4.6,0,17,0.007
+445,orange roughy raw,22,0.2,0,0,4.6,0,17,0.063
+446,catfish fried,199,11.6,7,0,15.7,0.6,61.8,0.2
+447,cuttlefish raw,22,0.2,0.2,0,4.6,0,31.7,0.1
+448,bass raw,90,2.9,0,0,14.9,0,53.7,0.055
+449,flounder cooked,109,3,0,0,19.4,0,71.1,0.5
+450,milkfish raw,42,1.9,0,0,5.8,0,14.7,0.098
+451,eel raw,375,23.8,0,0,37.6,0,257,0.1
+452,catfish raw,189,9.4,0,0,24.2,0,87.5,0.2
+453,fish sticks,78,4.5,6.1,0.5,3.1,0.4,7.8,0.1
+454,coho salmon raw,254,12.2,0,0,33.8,0,81.1,0.054
+455,monkfish cooked,27,0.6,0,0,5.3,0,9.1,0.004
+456,yellowtail cooked,546,19.6,0,0,86.6,0,207.3,0.1
+457,yellowfin tuna cooked,37,0.2,0,0,8.2,0,13.3,0.011
+458,ling cooked,168,1.2,0,0,36.8,0,77,0.3
+459,eel cooked,67,4.2,0,0,6.7,0,45.6,0.069
+460,sablefish raw,753,59.1,0,0,51.8,0,189.1,0.2
+461,salmon nuggets,60,3.3,4,0,3.6,0,7.4,0.005
+462,yellowtail raw,546,19.6,0,0,86.5,0,205.7,0.1
+463,butterfish cooked,47,2.6,0,0,5.5,0,20.8,0.042
+464,caviar,42,2.9,0.6,0,3.9,0,94.1,0.2
+465,pollock raw,355,3.8,0,0,75,0,274.1,0.3
+466,catfish cooked,206,10.3,0,0,26.4,0,94.4,0.2
+467,whiting raw,83,1.2,0,0,16.8,0,61.6,0.016
+468,pink salmon raw,404,14,0,0,65.2,0,146.3,0.2
+469,yellowfin tuna raw,31,0.1,0,0,6.9,0,11,0.049
+470,mackerel raw,230,15.6,0,0,20.8,0,78.4,0.1
+471,turbot raw,388,12,0,0,65.5,0,195.8,0.6
+472,cusk cooked,106,0.8,0,0,23.1,0,50.4,0.047
+473,atlantic croaker raw,82,2.5,0,0,14,0,48.2,0.014
+474,sucker cooked,148,3.7,0,0,26.6,0,65.7,0.019
+475,spot raw,79,3.1,0,0,11.8,0,38.4,0.022
+476,drum cooked,236,9.7,0,0,34.6,0,126.3,0.1
+477,crayfish raw,3,0.048,0,0,0.6,0,4.3,0.024
+478,tilefish cooked,441,14.1,0,0,73.5,0,192,0.2
+479,bluefish cooked,186,6.4,0,0,30.1,0,88.9,0.045
+480,grouper cooked,238,2.6,0,0,50.2,0,94.9,0.1
+481,sheepshead raw,257,5.7,0,0,48.1,0,119,0.2
+482,herring kippered,87,4.9,0,0,9.8,0,32.8,0.4
+483,grouper raw,238,2.6,0,0,50.2,0,95.8,0.1
+484,ocean perch cooked,48,0.9,0,0,9.3,0,31.5,0.2
+485,ling raw,168,1.2,0,0,36.7,0,77.2,0.3
+486,lingcod cooked,329,4.1,0,0,68.4,0,202.3,0.2
+487,florida pompano raw,184,10.6,0,0,20.7,0,56,0.081
+488,rockfish cooked,162,2.4,0,0,33.1,0,90.9,0.1
+489,seatrout cooked,247,8.6,0,0,39.9,0,197.2,0.1
+490,sockeye salmon raw,562,22.2,0,0,84.4,0,209.9,0.4
+491,swordfish cooked,182,8.4,0,0,24.9,0,82.7,0.1
+492,american shad raw,362,25.3,0,0,31.2,0,138,0.001
+493,sardine canned in oil,310,17.1,0,0,36.7,0,211.6,0.5
+494,anchovy canned in oil,8,0.4,0,0,1.2,0,3.4,0.1
+495,salmon canned,520,20.3,0,0,79.1,0,143.9,1.8
+496,sardines in tomato sauce canned,165,9.3,0.5,0.4,18.6,0.009,54.3,0.4
+497,sockeye salmon canned,563,24.9,0,0,79.5,0,266.2,1.4
+498,tuna canned,102,2.4,0,0,18.9,0,33.6,0.3
+499,pink salmon canned,530,20.4,0,0,80.9,0,226.1,1.7
+500,cod canned,328,2.7,0,0,71,0,171.6,0.7
+501,eastern oyster canned,110,4,6.3,0,11.4,0,89.1,0.2
+502,chum salmon canned,520,20.3,0,0,79.1,0,143.9,0.3
+503,tuna canned in oil,331,14.4,0,0,47.2,0,55.2,0.7
+504,wild pink salmon oceans,320,16,0,0,0,0,0,0
+505,shrimp canned,128,1.7,0,0,26.1,0,322.6,1.1
+506,alaska king crab raw,144,1,0,0,31.5,0,72.2,1.4
+507,scallops fried,64,3.2,6.4,0,2.6,0,18,0.2
+508,shrimp cooked,7,0.092,0.013,0,1.3,0,11.6,0.012
+509,clams fried,19,1,1,0,1.3,0,5.7,0.068
+510,alaska king crab cooked,130,2.1,0,0,25.9,0,71,1.4
+511,scallops cooked,11,0.058,0.5,0,2.1,0,4.1,0.06
+512,squid fried,140,6,6.2,0,14.4,0,208,0.2
+513,oyster raw,41,1.2,2.5,0,4.7,0,25,0.059
+514,abalone,89,0.6,5.1,0,14.5,0,72.3,0.3
+515,queen crab raw,25,0.3,0,0,5.2,0,15.6,0.2
+516,whelk cooked,78,0.2,4.4,0,13.5,0,36.8,0.1
+517,oyster cooked,41,1.2,2.5,0,4.7,0,25,0.066
+518,eastern oyster cooked,8,0.2,0.7,0,0.7,0,3.7,0.038
+519,blue mussels cooked,344,9,14.8,0,47.6,0,112,0.7
+520,octopus raw,23,0.3,0.6,0,4.2,0,13.6,0.064
+521,spiny lobster cooked,233,3.2,5.1,0,43,0,146.7,0.4
+522,blue mussels raw,129,3.4,5.5,0,17.9,0,42,0.4
+523,queen crab cooked,98,1.3,0,0,20.2,0,60.4,0.6
+524,dungeness crab cooked,140,1.6,1.2,0,28.3,0,96.5,0.5
+525,dungeness crab raw,140,1.6,1.2,0,28.4,0,96.2,0.5
+526,shrimp fried,52,3.2,4.8,0.086,1.3,0.1,9.9,0.2
+527,shrimp raw,4,0.023,0.041,0,0.7,0,6.3,0.083
+528,blue crab cooked,71,0.6,0,0,15.2,0,82.5,0.3
+529,shrimp imitation,29,0.4,2.6,0,3.5,0,10.2,0.2
+530,conch baked,165,1.5,2.2,0,33.4,0,82.6,0.2
+531,squid raw,26,0.4,0.9,0,4.4,0,65.9,0.09
+532,scallop raw,10,0.091,0.5,0,1.8,0,3.6,0.057
+533,lobster raw,116,1.1,0,0,24.8,0,190.5,0.6
+534,scallop imitation,28,0.1,3,0,3.6,0,6.2,0.2
+535,blue crab raw,18,0.2,0.018,0,3.8,0,16.4,0.079
+536,whelk raw,39,0.1,2.2,0,6.7,0,18.4,0.073
+537,spiny lobster raw,234,3.2,5.1,0,43.1,0,146.3,0.4
+538,clams canned,227,2.5,9.4,0,38.8,0,80,0.2
+539,lobster cooked,134,1.3,0,0,28.5,0,219,0.7
+540,eastern oyster fried,29,1.8,1.7,0,1.3,0,10.4,0.015
+541,clams raw,195,2.2,8.1,0,33.3,0,68.1,1.4
+542,octopus cooked,139,1.8,3.7,0,25.3,0,81.6,0.4
+543,eastern oyster raw,8,0.2,0.8,0,0.7,0,3.5,0.021
+544,oyster fried,61,3,6.7,0,2.1,0,18.1,0.1
+545,sturgeon smoked,49,1.2,0,0,8.8,0,22.6,0.2
+546,chinook salmon smoked,159,5.9,0,0,24.9,0,31.3,1.1
+547,cisco smoked,50,3.4,0,0,4.6,0,9.1,0.1
+548,haddock smoked,33,0.3,0,0,7.1,0,21.8,0.2
+549,whitefish smoked,147,1.3,0,0,31.8,0,44.9,1.4
+550,red salmon sockeye filets smoked,373,12.3,0,0,65.5,0,167.4,0.065
+551,egg boiled,93,6.4,0.7,0.7,7.5,0,223.8,0.042
+552,pecan pie,503,27.1,63.7,0,6,0,106.1,0.3
+553,apple pie,331,15.6,46.4,0,3,0,0,0.3
+554,vanilla wafer pie crust,935,63.7,88.4,12.9,6.5,0.2,68.6,0.9
+555,chocolate pie crust,881,40.8,117.4,47.9,11.1,4.9,0,0.9
+556,apple strudel,195,8,29.2,18.3,2.3,1.6,4.3,0.02
+557,chocolate snack cake,200,8,30.2,18.9,1.8,1.6,0,0.2
+558,fruit fried pie,404,20.6,54.5,27.4,3.8,3.3,0,0.4
+559,pumpkin pie,316,14.4,40.9,0,7,0,65.1,0.3
+560,corn cake,35,0.2,7.5,2.1,0.7,0.2,0,0.01
+561,sponge snack cake,157,4.8,26.9,15.7,1.5,0.4,17.2,0.2
+562,danish pastry with nuts,280,16.4,29.7,16.8,4.6,1.3,29.9,0.2
+563,chocolate cream pie,301,19.2,33.3,0,2.6,2,5,0.1
+564,angel food cake,72,0.2,16.2,0,1.7,0.4,0,0.2
+565,lemon meringue pie,362,16.4,49.7,0,4.8,0,67.3,0.3
+566,danish pastry with cinnamon,349,16.7,46.9,0,4.8,0,27.3,0.3
+567,cinnamon coffeecake,238,13.3,26.6,0,3.9,1.1,18.2,0.2
+568,cheesecake,257,18,20.4,17.4,4.4,0.3,44,0.4
+569,fruitcake,139,3.9,26.5,11.8,1.2,1.6,2.2,0.013
+570,egg custard,293,12.9,31,31,14.2,0,236.9,0.2
+571,mince pie,477,17.8,79.2,46.7,4.3,4.3,0,0.4
+572,yellow cake with chocolate frosting,546,25.6,79.7,56.5,4.6,2.2,23,0.4
+573,danish pastry with fruit,335,15.9,45.1,0,4.8,0,18.8,0.3
+574,white cake with coconut frosting,399,11.5,70.8,64.3,4.9,1.1,1.1,0.3
+575,danish pastry with cheese,353,24.6,28.7,0,5.8,0,20,0.3
+576,graham cracker pie crust,917,45.4,117.7,33.2,9.3,3.5,0,0.9
+577,blueberry pie,360,17.5,49.2,0,4,0,0,0.3
+578,yellow cake with vanilla frosting,239,9.3,37.6,0,2.2,0.2,35.2,0.2
+579,pie crust,121,8,10.9,0.045,1.5,0.4,0,0.1
+580,chocolate cake with chocolate frosting,537,27.7,72.9,55.1,4.8,3,30.4,0.5
+581,cheese coffeecake,258,11.6,33.7,0,5.3,0.8,64.6,0.3
+582,vanilla cream pie,350,18.1,41.1,16,6,0.8,78.1,0.3
+583,pineapple cake,367,13.9,58.1,0,4,0.9,25.3,0.4
+584,peach pie,262,11.7,38.5,19,2.2,0.9,0,0.3
+585,fruit coffeecake,156,5.1,25.8,0,2.6,1.3,3.5,0.2
+586,pound cake,116,6,14.6,0,1.7,0.2,66.3,0.1
+587,pound cake bread,215,9.6,28.2,10,3.9,0.9,0,0.2
+588,white cake,264,9.2,42.3,26.3,4,0.6,1.5,0.2
+589,coffeecake with chocolate frosting,298,9.7,48.4,0,4.5,1.8,62.1,0.3
+590,popcorn cake,38,0.3,8,0.001,1,0.3,0,0.05
+591,banana cream pie,3190,161.3,390.2,143,52.2,8.3,604.9,2.8
+592,baked apple pie mcdonalds,91,4.4,12.3,4.9,0.9,0.6,0,0.076
+593,sponge cake,187,2.7,36.4,0,4.6,0,107.1,0.1
+594,yellow cake,245,9.9,36,0,3.6,0.5,36.7,0.2
+595,shortcake,98,4,13.7,0,1.7,0,0.8,0.1
+596,cherry pie,486,22,69.3,0,5,0,0,0.3
+597,dutch apple pie,397,15.8,61,30.2,3,2.2,0,0.3
+598,chocolate cake,352,14.3,50.7,0,5,1.5,55.1,0.3
+599,marshmallow,64,0.033,16.3,11.5,0.4,0.013,0,0.039
+600,sugar apple,72,0.2,18.2,0,1.6,3.4,0,0.045
+601,toffee,67,3.9,7.8,7.6,0.1,0,12.5,0.044
+602,vanilla fudge with nuts,123,3.9,21.1,20.1,0.8,0.3,3.7,0.075
+603,peanuts chocolate coated,21,1.3,2,1.5,0.5,0.2,0.4,0.063
+604,caramel with nuts chocolate coated,66,2.9,8.5,5.8,1.3,0.6,0,0.041
+605,gingerbread,263,12.1,36.4,0,2.9,0,23.7,0.2
+606,rolo nestle,24,1,0.2,0.078,0.009,0,0,0
+607,vanilla fudge,108,1.5,23.2,22.6,0.3,0,4.2,0.04
+608,halavah,328,15.1,42.3,0,8.7,3.2,0,0.1
+609,praline,189,10.1,23.2,21.8,1.3,1.4,0,0.016
+610,fruit juice bar,67,0.089,15.6,13.5,0.9,0.8,0,0.011
+611,peanut brittle,138,5.4,20.2,14.5,2.1,0.7,3.4,0.1
+612,butterscotch,21,0.2,4.8,4.3,0.079,0,0.5,0.039
+613,chocolate coffee beans,155,9.4,15.6,14.4,2.1,1.6,5.7,0.006
+614,nougat with almonds,56,0.2,12.9,11.7,0.5,0.5,0,0.061
+615,carob,135,7.8,14.1,8.5,2,1,0.3,0.015
+616,peanut butter fudge,62,1.1,12.4,11.7,0.6,0.1,0.5,0.085
+617,sugar coated almonds,17,0.6,2.4,2.2,0.4,0.013,0,0.021
+618,chocolate coated marshmallow,118,4.7,19,12.5,1.1,0.6,0,0.002
+619,raisins chocolate coated,390,14.8,68.4,62.2,4.1,3.1,3,0.021
+620,chewing gum sugarless,5,0.013,1.9,0,0,0.078,0,0.001
+621,chewing gum,11,0.032,2.9,2,0,0.012,0,0.083
+622,chocolate syrup,109,0.4,25.4,19.4,0.8,1,0,0.061
+623,chocolate fudge syrup,67,1.7,12,6.6,0.9,0.5,0.2,0.084
+624,m ms milk chocolate mars,207,8.9,29.9,26.7,1.8,1.2,5.9,0.018
+625,milk chocolate with almonds,216,14.1,21.9,18,3.7,2.5,7.8,0.051
+626,chocolate fudge,70,1.8,13,12.4,0.4,0.3,2.4,0.032
+627,milk chocolate with rice cereal,0,0,0,0,0,0,0,0
+628,m ms peanut chocolate mars,93,4.7,10.9,9.1,1.7,0.7,1.4,0.017
+629,dark chocolate,165,9.7,18,13.8,1.5,2.2,2.1,0.013
+630,chocolate semisweet,806,50.4,107.4,91.6,7.1,9.9,0,0.042
+631,after eight mints nestle,36,1,6.7,5.6,0.1,0.2,0,0.025
+632,milk chocolate,37,2.1,4.2,3.6,0.5,0.2,1.6,0.045
+633,white chocolate,162,9.6,17.8,17.7,1.8,0.081,6.3,0.009
+634,chocolate,208,14,24.8,21.1,1.6,2.3,0,0.001
+635,twix mars,146,7.2,18.8,14,1.4,0.3,2,0.064
+636,kit kat nestle,62,3.3,7.6,6.5,0.7,0.2,1.1,0.022
+637,snickers mars,280,13.6,35.1,28.8,4.3,1.3,7.4,0.1
+638,milky way mars,264,10,41.3,34.6,2.3,0.6,5.2,0.021
+639,clif bar,235,4,44.5,21.5,10,5,0,0.1
+640,gum drops,18,0.042,4.4,3.5,0,0,0,0.008
+641,skittles wild berry mars,249,2.6,56.3,47.1,0.1,0,0,0.036
+642,skittles original mars,251,2.7,56.3,47,0.1,0,0,0.025
+643,skittles tropical mars,251,2.7,56.3,47,0.1,0,0,0.095
+644,fruit leather,52,0.4,12,6.9,0.029,0,0,0
+645,taffy,60,0.5,13.7,10.3,0.087,0,1.4,0.028
+646,eisbonbons mac iver,23,0,0,0,0,0,0,0
+647,caramels,39,0.8,7.8,6.6,0.5,0,0.7,0.015
+648,hard candy,24,0.067,5.9,3.8,0,0,0,0.021
+649,jellybeans,4,0.043,1,0.8,0,0.083,0,0.076
+650,jellies,56,0.069,14.7,10.8,0.005,0.2,0,0.016
+651,wheat germ toasted,115,3.2,14.9,2.3,8.7,4.5,0,0.06
+652,crispy brown rice,124,1.1,27.5,2.9,2.3,2.3,0,0.086
+653,bran flakes asda,109,0.6,0.2,0,0,0,0,0
+654,amaranth cooked,251,3.9,46,0,9.3,5.2,0,0.095
+655,triticale,645,4,138.5,0,25.1,0,0,0.049
+656,barley raw,42,0.1,9.3,0.094,1.2,1.9,0,0.016
+657,bulgur dry,171,0.7,37.9,0.2,6.1,9.2,0,0.071
+658,cottonseed kernels roasted,754,54.1,32.6,0,48.6,8.2,0,0.073
+659,rice bran,373,24.6,58.6,1.1,15.8,24.8,0,0.036
+660,chaptti roti indian bread,491,2.5,0.089,68.4,7,0,0,0
+661,quinoa cooked,222,3.6,39.4,1.6,8.1,5.2,0,0.026
+662,dar vida swiss original,116,3.1,0.5,0,0,0,0,0
+663,teff cooked,255,1.6,50,0,9.8,7.1,0,0.053
+664,couscous dry,650,1.1,134,0,22.1,8.7,0,0.031
+665,weetabix weetabix,2078,11.5,0,0,0,0,0,0
+666,oat bran cooked,88,1.9,25.1,0,7,5.7,0,0.082
+667,buckwheat cooked,155,1,33.5,1.5,5.7,4.5,0,0.053
+668,millet puffed,74,0.7,16.8,0.1,2.7,0.6,0,0.076
+669,oat bran raw,23,0.5,4.9,0.1,1.3,1.2,0,0.036
+670,popcorn oil popped,64,4.8,5,0.027,0.8,0.9,0,0.018
+671,kamut cooked,251,1.6,52.4,0,11.1,6.7,0,0.038
+672,wheat bran,125,2.5,37.4,0.2,9,24.8,0,0.015
+673,cheese popcorn,58,3.7,5.7,0,1,1.1,1.2,0.002
+674,raisin bran crunch kelloggs,90,0.5,21.2,9,1.9,0,0,0
+675,couscous cooked,176,0.3,36.5,0.2,6,2.2,0,0.054
+676,multigrain cheerios general mills,4,0.005,1,0.2,0.038,0.1,0.072,0
+677,bulgur cooked,151,0.4,33.8,0.2,5.6,8.2,0,0.049
+678,popcorn air popped,31,0.4,6.2,0.086,1,1.2,0,0.016
+679,teff raw,708,4.6,141.1,3.6,25.7,15.4,0,0.053
+680,spelt cooked,246,1.6,51.3,0,10.7,7.6,0,0.041
+681,millet raw,756,8.4,145.7,0,22,17,0,0.013
+682,popcorn unpopped,106,1.2,20.9,0.3,3.1,3.6,0,0.001
+683,whole wheat cooked,150,1,33.2,0.2,4.8,3.9,0,0.6
+684,wheat sprouted,214,1.4,45.9,0,8.1,1.2,0,0.026
+685,whole wheat dry,96,0.6,21.1,0.1,3.1,2.7,0,0.036
+686,caramel popcorn,122,3.6,22.4,15.1,1.1,1.5,1.4,0.069
+687,wheat puffed,44,0.1,9.6,0,1.8,0.5,0,0.03
+688,roggenmischbrot sonnenblumenkerne aldi,82,3.1,0,0,0,0,0,0
+689,wheat germ,112,3,16.1,0,7.2,4.1,0,0.037
+690,microwave popcorn,465,26.3,49.8,0.3,7.3,8.7,0,0.6
+691,millet cooked,207,1.7,41.2,0.2,6.1,2.3,0,0.046
+692,kamut raw,627,4.1,130.9,15.2,27.3,16.9,0,0.012
+693,wheat durum,651,4.7,136.6,0,26.3,0,0,0.032
+694,sorghum,651,6.3,143.3,0,21.7,12.1,0,0.045
+695,white wheat,657,3.3,145.7,0.8,21.7,23.4,0,0.094
+696,rye,571,2.8,128.2,1.7,17.5,25.5,0,0.078
+697,spelt raw,588,4.2,122.1,11.9,25.4,18.6,0,0.076
+698,buckwheat raw,41,0.4,8.6,0,1.6,1.2,0,0.054
+699,honey cereali general mills,104,2,3,0,0,0,0,0
+700,barley cooked,193,0.7,44.3,0.4,3.5,6,0,0.064
+701,oats,39,0.7,6.6,0,1.7,1.1,0,0.074
+702,amaranth raw,37,0.7,6.5,0.2,1.4,0.7,0,0.077
+703,semolina,601,1.8,121.6,0,21.2,6.5,0,0.097
+704,quinoa dry,221,3.6,38.5,0,8.5,4.2,0,0.026
+705,wheat shredded,155,1,36.2,0.4,5.2,5.5,0,0.086
+706,cattail,5,0,1,0.074,0.2,0.9,0,0.031
+707,peanut granola bar,116,5.7,15,8.2,2.4,0.7,0,0.006
+708,vanilla bluberry bar kind,49,1.4,0.9,0.096,0,0,0,0
+709,coconut granola bar,150,9.1,15.6,9.7,1.5,1.8,0,0.006
+710,almond granola bar,119,6.1,14.9,0,1.8,1.2,0,0.067
+711,chocolate chip granola bar,105,3.9,17.3,0,1.8,1.1,0,0.062
+712,fruit granola bar,82,0.2,18.6,13.3,1.4,1.8,0,0.028
+713,granola bar,99,4.2,13.5,6,2.1,1.1,0,0.084
+714,peanut bar,209,13.5,19,16.9,6.2,1.6,0,0.059
+715,milk cereal bar,103,2.7,18,11.5,1.6,0.1,1.5,0.087
+716,almond rice bar,128,5.7,18.1,0,2,1,0,0
+717,fruit nut squares,55,1.3,10.3,6.4,0.3,0.3,0,0.086
+718,rice wheat cereal bar,90,2,16,7,2,0.4,0,0.1
+719,crisped rice bar,113,3.8,20.4,0,1.4,0.6,0,0.01
+720,brown rice raw,685,5.4,142.9,1.6,14.7,6.5,0,0.086
+721,rice pilaf cooked,352,8.8,61.1,0.6,7,1.4,0,1
+722,beef flavored rice raw,657,2.3,139.1,0,19.8,2.9,0,2.4
+723,wild rice cooked,166,0.6,35,1.2,6.5,3,0,0.008
+724,wild rice raw,571,1.7,119.8,4,23.6,9.9,0,0.051
+725,congee with pork shrimp and squid plus egg,178,0.3,0,0,0,0,0,0
+726,white rice pasta cooked,246,5.7,43.3,0,5.1,5.1,2,1.1
+727,chicken flavored rice raw,601,2.2,127.3,4,17.9,2,0,2.1
+728,instant white rice raw,361,0.9,78.2,0.026,7.4,1.8,0,0.039
+729,rice crisps,107,0.4,24.1,2.3,1.8,0.2,0,0.2
+730,parboiled white rice raw,692,1.9,149.6,0.6,13.9,3.3,0,0.055
+731,instant white rice cooked,193,0.8,41.4,0,3.6,1,0,0.001
+732,rice pilaf raw,732,2.8,155.7,3.1,21.3,2.4,0,2.7
+733,rice cracker cake,111,1.2,23,0.2,2,1.2,0,0.097
+734,parboiled white rice cooked,194,0.6,41.2,0.2,4.6,1.4,0,0.088
+735,white rice steamed,199,0.4,44.7,0,4.2,1.2,0,0.009
+736,brown rice cake,35,0.3,7.3,0.047,0.7,0.4,0,0.024
+737,glutinous white rice raw,685,1,151.1,0,12.6,5.2,0,0.015
+738,white rice pasta raw,600,4,122.8,0,15.3,0,3.3,3
+739,glutinous white rice cooked,169,0.3,36.7,0.078,3.5,1.7,0,0.027
+740,brown rice cooked,218,1.6,45.8,0.7,4.5,3.5,0,0.086
+741,beef flavored rice cooked,319,7.9,54.4,0,7,1.5,0,0.9
+742,white rice cooked,205,0.4,44.5,0.015,4.3,0.6,0,0.077
+743,chicken flavored rice cooked,317,8,54.8,1.5,6.2,1.6,0,0.9
+744,white rice raw,675,1.2,147.9,0.2,13.2,2.4,0,0.081
+745,cheese imitation,441,36.2,1.1,1.1,28.3,0,17,0.8
+746,cheshire cheese,110,8.7,1.4,0,6.6,0,29.1,0.2
+747,monterey cheese,421,34.2,0.8,0.6,27.7,0,100.6,0.7
+748,edam cheese,107,8.3,0.4,0,7.5,0,26.7,0.3
+749,fontina cheese,420,33.6,1.7,1.7,27.6,0,125.3,0.9
+750,monterey cheese low fat,350,24.4,0.8,0.6,31.9,0,73.5,0.6
+751,colby cheese,445,36.3,2.9,0.6,26.8,0,107.4,0.7
+752,american cheese,93,7.9,0.9,0.6,4.5,0,25,0.4
+753,blue cheese,106,8.6,0.7,0.2,6.4,0,22.5,0.3
+754,egg noodles cooked,110,1.7,20.1,0.3,3.6,1,23.2,0.027
+755,japanese somen noodles cooked,231,0.3,48.5,0,7,0,0,0.3
+756,whole wheat macaroni dry,365,1.5,78.8,0,15.4,8.7,0,0.028
+757,pasta marinara and ground beef sauce,41,1.6,4.1,1,2.5,0.5,0.2,0
+758,macaroni raw,390,1.6,78.4,2.8,13.7,3.4,0,0.097
+759,spaghetti dry,105,0.4,21.1,0.8,3.7,0.9,0,0.09
+760,fusilli cucina,100,0.4,3.4,0.041,0,0,0,0
+761,japanese somen noodles dry,101,0.2,21,0,3.2,1.2,0,0.5
+762,pasta cooked,301,2.4,57.3,0,11.8,0,75.9,0.073
+763,macaroni cooked,221,1.3,43.2,0.8,8.1,2.5,0,0.071
+764,spinach egg noodles dry,145,1.7,26.7,0,5.6,2.6,36.1,0.096
+765,japanese soba noodles cooked,113,0.1,24.4,0,5.8,0,0,0.1
+766,rice noodles cooked,190,0.4,42.3,0.052,3.2,1.8,0,0.075
+767,whole wheat macaroni cooked,174,0.8,37.2,1.1,7.5,3.9,0,0.057
+768,spaghetti cooked,363,2.1,71,1.3,13.3,4.1,0,0.089
+769,whole wheat spaghetti cooked,174,0.8,37.2,1.1,7.5,6.3,0,0.091
+770,waffle,218,10.6,24.7,0,5.9,0,51.8,0.4
+771,baked taco shell,61,2.7,8.3,0.2,0.8,0.9,0,0.004
+772,puff pastry,1367,94.3,112,1.8,18.1,3.7,0,0.6
+773,blueberry muffin,214,9.2,30.2,17.9,2.6,0.6,17.1,0.2
+774,bread crumbs,427,5.7,77.7,6.7,14.4,4.9,0,0.8
+775,warm cinnamon roll mcdonalds,113,5.1,15,7,2,0.5,16.4,0.1
+776,corn muffin,201,5.5,33.7,11.7,3.9,2.2,17.2,0.3
+777,tortilla,467,1.9,98.4,5.4,14.3,4.7,0,0.9
+778,croutons seasoned,186,7.3,25.4,1.8,4.3,2,2.8,0.4
+779,buttermilk waffle,102,3.1,16,1.5,2.4,0.9,4.3,0.2
+780,flour tortilla,146,3.7,24.1,1.3,3.9,1.2,0,0.4
+781,glazed donut,55,3,6.2,3,0.8,0.3,3.9,0.082
+782,corn tortilla,52,0.7,10.7,0.2,1.4,1.5,0,0.075
+783,muffin,169,6.5,23.6,0,3.9,1.5,22.2,0.3
+784,croutons,33,0.5,5.9,0,1,0.4,0,0.035
+785,donut with jelly filling,289,15.9,33.2,17.9,5,0.8,22.1,0.4
+786,sweet cinnamon rolls,309,13.6,42.2,26.3,5.1,2,54.8,0.3
+787,oat bran muffin,46,1.3,8.2,1.4,1.2,0.8,0,0.067
+788,french cruller donut,169,7.5,24.4,14.4,1.3,0.5,4.5,0.1
+789,pancakes,86,3.7,10.8,0,2.4,0,22.4,0.2
+790,chocolate donut,250,11.9,34.4,19.2,2.7,1.3,34.2,0.1
+791,sweet cheese rolls,238,12.1,28.8,0,4.7,0.8,50.2,0.2
+792,eclair,234,19.2,11.2,2,4.4,0.4,121.5,0.1
+793,donut with cream filling,307,20.8,25.5,12.4,5.4,0.7,20.4,0.3
+794,fruit toaster pastry,209,5.6,37.1,14.8,2.4,0.5,0,0.2
+795,donut,192,10.3,22.9,0,2.3,0.7,14.4,0.2
+796,pancakes whole wheat,92,2.9,12.9,0,3.7,1.2,26.8,0.3
+797,keikitos,196,10.6,22.3,10.8,2.9,0.5,0,0.2
+798,zwieback,30,0.7,5.2,0.9,0.7,0.2,0.6,0.05
+799,chocolate coated donut,81,4.5,9.2,4.8,0.9,0.3,3.4,0.099
+800,waffle toasted,103,3.2,16.3,1.7,2.4,0.8,5,0.2
+801,cinnamon toaster pastry,206,7.1,34.1,0,2.6,0.5,0,0.2
+802,wheat bran bread,89,1.2,17.2,3.5,3.2,1.4,0,0.2
+803,white bread,77,1,14.3,1.6,2.6,0.8,0,0.1
+804,oat bran bread,71,1.3,11.9,2.3,3.1,1.4,0,0.1
+805,whole wheat bread natures own,50,1,0,0,0,0,0,0
+806,high protein bread dr zaks,152,3,15.3,0.6,0,0,0,0
+807,wheat bread,79,1.3,13.8,1.7,3.1,1.2,0,0.1
+808,egg bread toasted,117,2.4,19.5,0.7,3.9,0.9,20.7,0.2
+809,butter toastbrot ja,66,0.9,2,0.4,0,0,0,0
+810,vienna bread toasted,93,0.6,18,1,3.8,0.9,0,0.2
+811,vienna bread,92,0.6,18.1,0.8,3.8,0.8,0,0.2
+812,protein bread,47,0.4,8.3,0.3,2.3,0.6,0,0.008
+813,banana bread,186,6,31.1,0,2.5,0.6,24.5,0.2
+814,rice bran bread,66,1.2,11.7,1.3,2.4,1.3,0,0.081
+815,white fibre wonder bread,95,1,18,2,3.5,1.5,0.1,0
+816,focaccia,142,4.5,20.4,1,5,1,0,0.3
+817,oat bran bread toasted,70,1.3,11.8,2.3,3.1,1.3,0,0.1
+818,rye bread,83,1.1,15.5,1.2,2.7,1.9,0,0.2
+819,wheat germ bread,73,0.8,13.5,1,2.7,0.6,0,0.2
+820,protein bread toasted,46,0.4,8.2,0.2,2.2,0.6,0,0.049
+821,oatmeal bread,73,1.2,13.1,2.2,2.3,1.1,0,0.1
+822,arepa,215,5.3,36.4,0.9,5.4,2.5,4.9,0.3
+823,raisin bread toasted,86,1.4,16.5,1.8,2.5,1.4,0,0.1
+824,cracked wheat bread,74,1.1,14,0,2.5,1.6,0,0.2
+825,garlic bread,151,7.1,17.9,1.6,3.6,1.1,0,0.2
+826,rye bread toasted,82,1,15.4,1.2,2.7,1.9,0,0.2
+827,whole wheat bread,128,2.5,23.6,1.8,3.9,2.8,0,0.2
+828,whole wheat bread toasted,128,2.5,23.7,1.8,3.9,2.8,0,0.2
+829,pan dulce bread,231,7.3,35.5,7.9,5.9,1.4,18.9,0.1
+830,rice bran bread toasted,66,1.3,11.8,1.3,2.4,1.3,0,0.026
+831,pita bread whole wheat,74,0.7,15.4,0.2,2.7,2.1,0,0.1
+832,wheat germ bread toasted,73,0.8,13.6,1,2.7,0.6,0.3,0.2
+833,pumpernickel bread,65,0.8,12.4,0.1,2.3,1.7,0,0.2
+834,frybread,502,18.6,73.4,3.1,10.2,0,10.6,0.5
+835,white bread toasted,83,1.1,15.4,1.3,2.5,0.7,0.3,0.2
+836,piki bread,109,2,20.2,0.4,2.5,2.6,0,0.028
+837,wheat bread toasted,75,1,13.4,1.5,3.1,1.1,0,0.1
+838,pita bread,165,0.7,33.4,0.8,5.5,1.3,0,0.3
+839,potato bread,85,1,15.1,3,4,2,0,0.1
+840,egg bread,115,2.4,19.1,0.7,3.8,0.9,20.4,0.2
+841,oatmeal bread toasted,73,1.2,13.2,2.2,2.3,1.1,0,0.1
+842,cheese bread,196,10,21.5,1,5,1,4.8,0.4
+843,pumpernickel bread toasted,80,1,15.1,0.2,2.8,2.1,0,0.2
+844,raisin bread,88,1.4,16.7,1.8,2.5,1.4,0,0.1
+845,pumpernickel roll,77,0.8,14.8,0.1,3,1.5,0,0.1
+846,cinnamon raisin bagel,71,0.4,14.4,1.6,2.5,0.6,0,0.047
+847,english muffin,127,1.1,25.5,0.9,5,2.6,0,0.2
+848,rye dinner roll,123,1.5,22.8,0.5,4.4,2.1,0,0.3
+849,english muffin whole wheat,134,1.4,26.7,5.3,5.8,4.4,0,0.2
+850,dinner roll whole wheat,74,1.3,14.3,2.4,2.4,2.1,0,0.1
+851,dinner roll,76,1.8,12.9,0.5,2.4,1.1,0,0.1
+852,hotdog roll,117,1.6,21.1,3.1,4.1,0.8,0,0.2
+853,bagel,245,1.5,47.9,6,10,4,0,0.4
+854,oat bran bagel,176,0.8,36.8,1.1,7.4,2.5,0,0.4
+855,pain au chocolat de la boulangerie,235,12,0,0,0,0,0,0
+856,egg bagel,72,0.5,13.8,0,2.8,0.6,6.2,0.1
+857,english muffin toasted,140,1.1,27.4,1.8,5.4,1.5,0,0.2
+858,english muffin whole wheat toasted,135,1.4,26.9,5.4,5.9,4.5,0,0.2
+859,biscuit,357,16.5,45,2.2,7.1,1.5,3,0.6
+860,french roll,105,1.6,19.1,0.1,3.3,1.2,0,0.2
+861,oat bran dinner roll,78,1.5,13.3,2.2,3.1,1.4,0,0.1
+862,pecan shortbread cookies,76,4.6,8.2,0,0.7,0.3,4.6,0.002
+863,oatmeal cookies,113,4.5,17.2,6.2,1.6,0.7,0,0.1
+864,chocolate wafers,485,15.9,81.1,33.2,7.4,3.8,2.2,0.8
+865,vanilla wafers low fat,353,12.2,58.9,30,4,1.5,40.8,0.3
+866,chocolate chip cookies mcdonalds,136,6.4,18.7,9.6,1.6,0.6,18.4,0.058
+867,gingersnap cookies,29,0.7,5.4,1.4,0.4,0.2,0,0.012
+868,biscotti abbracci mulino bianco,54,2.6,0.8,0.051,0.4,0,0,0
+869,chocolate chip cookie,63,2.8,9.3,5.3,0.5,0.3,0,0.047
+870,brownie,243,9.8,38.3,22,2.9,1.3,10.2,0.2
+871,shortbread cookies,40,1.9,5.2,1.2,0.5,0.1,1.6,0.097
+872,oatmeal cookies with raisins,65,2.4,10.3,0,1,0,5,0.022
+873,peanut butter sandwich cookies,67,3,9.2,5,1.2,0.3,0,0.098
+874,sugar cookies,72,3.2,10.2,5.7,0.8,0.1,7.7,0.007
+875,chocolate covered graham crackers,68,3.2,9.3,5.8,0.8,0.4,0,0.067
+876,raisin cookies,60,2,10.2,7.1,0.6,0.2,0.3,0.077
+877,vanilla wafers,28,1.2,4.3,0,0.3,0.1,0,0.045
+878,graham crackers,355,8.5,64.5,26.1,5.8,2.4,0,0.4
+879,peanut butter cookies,95,4.8,11.8,0,1.8,0,6.2,0.1
+880,vanilla sandwich cookie,72,3,10.8,5.9,0.7,0.2,0,0.044
+881,sugar wafers with creme filling,51,2.3,7.1,4.3,0.4,0.2,0,0.06
+882,cheese puffs,197,12.8,18.6,1.1,2.1,0.6,2.5,0.3
+883,saltine crackers,13,0.3,2.2,0.063,0.3,0.022,0,0.067
+884,trail mix,139,8.8,13.5,0,4.1,0,0,0.014
+885,corn cones,144,7.6,17.8,0,1.6,0.3,0,0.3
+886,chocolate pretzels,50,1.8,7.8,0,0.8,0,0,0.037
+887,french toast sticks,73,3.8,8.9,2.1,1.3,0.3,0,0.001
+888,crackers,82,4.2,9.8,1.3,1.1,0.4,0,0.1
+889,sesame sticks,54,3.7,4.7,0.084,1.1,0.3,0,0.09
+890,cheese crackers,34,1.6,4.2,0.3,0.8,0.2,0.2,0.065
+891,oriental rice cracker mix,143,7.2,14.6,0.8,4.9,3.7,0,0.1
+892,breadsticks,103,2.4,17.1,0.3,3,0.8,0,0.2
+893,milk crackers,50,1.7,7.7,1.8,0.8,0.2,1.2,0.095
+894,matzo crackers whole wheat,98,0.4,22.1,0,3.7,3.3,0,0.002
+895,matzo crackers with egg,109,0.6,22,0,3.4,0.8,23.2,0.057
+896,granola bites,23,0.9,3.3,1.5,0.4,0.3,0,0.067
+897,crackers whole wheat,120,4,19.5,0.3,3,2.9,0,0.2
+898,tropical trail mix,619,23.9,91.8,0,8.8,0,0,0.1
+899,soft pretzels,389,3.6,79.8,0.3,9.4,2,3.5,0.9
+900,corn tostada shell,58,2.9,7.9,0,0.8,0.7,0,0.084
+901,matzo crackers,111,0.4,23.4,0.098,2.8,0.8,0,0
+902,sesame crunch,9,0.6,0.9,0.6,0.2,0.1,0,0.027
+903,trail mix with chocolate chips,707,46.6,65.6,0,20.7,0,5.8,0.2
+904,cracker meal,440,2,93,0.4,10.7,3,0,0.078
+905,puffed rice,153,0.2,34.1,0,2.4,0.6,0,0.053
+906,filinchen gutena,19,0.2,0.5,0.028,0.4,0,0,0
+907,melba toast crackers,117,1,23,0.3,3.6,1.9,0,0.2
+908,matzo crackers with egg onion,109,1.1,21.6,0,2.8,1.4,12.6,0.052
+909,cornnuts,126,4.4,20.3,0.2,2.4,2,0,0.2
+910,bagel chips,789,26.5,116.1,10.5,21.6,7.2,0,0.4
+911,pretzels,115,0.9,24.1,0.7,3,1,0,0.4
+912,potato raw,164,0.2,37.2,1.7,4.3,4.7,0,0.072
+913,gatto di patate home made,202,9.4,4,3.6,0,0,0,0
+914,baked potato,161,0.2,36.6,2,4.3,3.8,0,0.097
+915,potato sticks,188,12.4,19.2,0.006,2.4,1.2,0,0.2
+916,potato cooked,52,0.006,12.1,0.5,1.1,1.2,0,0.035
+917,vivaldi potatoes sainsburys,23,0.1,0,0,0,0,0,0
+918,potato ham chowder soup,192,12.5,13.4,0,6.5,1.4,21.6,0.9
+919,russet potato raw,292,0.3,66.7,2.3,7.9,4.8,0,0.068
+920,russet potato baked,290,0.4,64.1,3.2,7.9,6.9,0,0.084
+921,french fries,13,0.4,2.2,0.088,0.2,0.2,0,0.056
+922,potato scalloped,216,9,26.4,0,7,4.7,29.4,0.8
+923,cottage fries,11,0.4,1.9,0.019,0.2,0.2,0,0.058
+924,mashed potatoes,215,6.8,35.5,1.2,4,3.1,0,0.7
+925,mashed potato with milk and butter,237,8.9,35.3,3,3.9,3.2,23.1,0.7
+926,red potato raw,149,0.3,33.9,2.7,4,3.6,0,0.02
+927,potato pancake,59,3.2,6.1,0.4,1.3,0.7,20.9,0.2
+928,potato puffs,243,11,35.5,0.3,2.6,3.2,0,0.6
+929,red potato baked,74,0.1,16.7,1.2,2,1.5,0,0.037
+930,potatoes canned,132,0.3,29.7,0,3.6,4.2,0,0.7
+931,potato skin raw,22,0.099,4.7,0,1,1,0,0.053
+932,shoestring french fries,4,0.1,0.7,0.062,0.099,0.099,0,0.055
+933,hash brown potato,144,9,15.3,0.3,1.4,1.4,0,0.3
+934,baked chips lays,130,2,0,0,0,0,0,0
+935,corn chips,162,10,17.2,0.031,1.9,1.2,0,0.2
+936,nacho cheese tortilla chips low fat,90,1,18.5,0.8,2.4,1.8,0.6,0.2
+937,corn chips barbecue,1036,64.7,111.3,0,13.9,10.3,0,1.5
+938,corn chips unsalted,490,29.4,50.5,1.2,5.8,3.9,0,0.024
+939,potato chips fat free,860,1.4,190.1,8.4,21.9,17,0,1.5
+940,sweet chilli kettle baked chips,99,2.2,2.1,0.4,2,0,0,0
+941,taro chips,11,0.6,1.6,0.04,0.049,0.2,0,0.022
+942,potato chips reduced fat,801,35.4,113.7,0.4,12.1,10,0,0.8
+943,onion snacks,150,6.8,19.5,1.4,2.3,1.2,0,0.3
+944,potato chips cheese,843,46.2,98.1,0,14.5,8.8,6.8,0.8
+945,yuca cassava chips,9,0.4,1.2,0.006,0.054,0.002,0,0.041
+946,tortilla chips low fat,117,1.6,22.6,0.2,3.1,1.5,0,0.1
+947,ranch flavor tortilla chips,992,48.8,124.2,6,14.2,7.9,0,1
+948,potato chips,161,10.4,15.9,0.007,2.1,1.4,0,0.021
+949,tortilla chips,142,6.2,20.3,0.2,2.1,1.6,0,0.077
+950,sweet potato chips,149,9.1,15.9,2.5,0.8,2.5,0,0.05
+951,nacho cheese tortilla chips,156,8.2,18.2,0.8,2.2,1.5,0,0.2
+952,vegetable chips,134,6.6,17.1,1.1,1.5,1.3,0,0.3
+953,taco flavor tortilla chips,1090,54.9,143.2,0,17.9,12,11.4,1.8
+954,potato chips barbecue,970,64.2,104.5,14,15.2,8.7,0,1.3
+955,pita chips,137,4.6,20.5,1.4,3.5,1.1,0,0.3
+956,potato chips sour cream and onion,1051,67.1,102,0,16,10.3,13.9,1.1
+957,adobo fresco,780,60.2,53.6,5.8,5.8,3.7,0,49.4
+958,bacon meatless,446,42.5,9.1,0,15.4,3.7,0,2.1
+959,meatless chicken fried,304,16.6,11.1,0,27.7,5.6,0,0.5
+960,soymilk,109,4.8,8.4,6.1,7.1,1,0,0.1
+961,soy vermicelli,463,0.1,115.2,24.4,0.1,5.5,0,0.032
+962,tofu fried,35,2.6,1.2,0.4,2.4,0.5,0,0.021
+963,tempeh,320,17.9,15.6,0,30.8,0,0,0.068
+964,koyadofu,81,5.2,1.7,0,8.9,1.2,0,0.081
+965,meatless meatloaf,110,5,4.5,0.7,11.8,2.6,0,0.3
+966,soya vanille joghurt alpro,21,0.6,1,0.09,0.3,0,0,0
+967,soybean curd cheese,340,18.2,15.5,3.6,28.1,0,0,0.094
+968,soy sauce,8,0.054,0.8,0.097,1.3,0.1,0,0.9
+969,soybean dry roasted,419,20.1,30.4,0,36.8,7.5,0,0.077
+970,soybean oil,120,13.6,0,0,0,0,0,0
+971,meatless chicken,376,21.4,6.1,0,39.7,6,0,1.2
+972,soybean cooked,296,15.4,17.1,5.2,28.6,10.3,0,0.075
+973,soymilk nonfat,68,0.046,10.1,8.9,6,0.5,0,0.1
+974,soy flour,23,1.1,1.8,0.4,1.8,0.5,0,0.023
+975,soybean lecithin oil,104,13.6,0,0,0,0,0,0
+976,tofu raw,188,11.9,4.7,0,20,0.7,0,0.06
+977,soy chips,109,2.1,15,0.5,7.5,1,0,0.2
+978,green soybean raw,376,17.4,28.3,0,33.2,10.8,0,0.017
+979,soy proteins concentrate,93,0.1,7.2,0,18,1.6,0,0.3
+980,soybean margarine,34,3.8,0.043,0,0.052,0,0,0.005
+981,chocolate soymilk nonfat,107,0.046,20.7,8.9,6,0.5,0,0.1
+982,okara,93,2.1,15.3,0,3.9,0,0,0.07
+983,meatless meatballs,284,13,11.5,1.8,30.2,6.6,0,0.8
+984,vanilla soymilk,131,4.3,15.3,9.7,7.9,1.5,0,0.1
+985,soy meal raw,414,2.9,49,0,54.8,0,0,0.017
+986,soymilk low fat,104,1.5,17.5,8.5,4,1.9,0,0.04
+987,sprouted soybean raw,85,4.7,6.7,0,9.2,0.8,0,0.005
+988,soybean raw,830,37.1,56.1,13.6,67.9,17.3,0,0.023
+989,tempeh cooked,55,3.2,2.6,0,5.1,0,0,0.084
+990,vanilla soymilk light,83,2.1,9.4,1,6.4,1.5,0,0.2
+991,chocolate soymilk,153,3.7,24.2,19.1,5.5,1,0,0.1
+992,soy oil,120,13.6,0,0,0,0,0,0
+993,natto,169,8.8,11.5,3.9,14.2,4.3,0,0.026
+994,chrysanthemum raw,12,0.3,1.5,0,1.7,1.5,0,0.012
+995,gourd cooked,100,0.6,25.5,9.2,1.2,5.2,0,0.065
+996,cauliflower raw,3,0.081,0.6,0.2,0.2,0.3,0,0.042
+997,red cabbage raw,53,0.3,12.5,6.5,2.4,3.6,0,0.079
+998,broccoli raab raw,9,0.2,1.1,0.2,1.3,1.1,0,0.04
+999,napa cabbage cooked,13,0.2,2.4,0,1.2,0,0,0.012
+1000,kelp,2,0.067,0.5,0.069,0.07,0.018,0,0.019
+1001,shallots raw,18,0.061,4.2,2,0.6,0.8,0,0.044
+1002,bamboo shoots raw,49,0.5,9.4,5.4,4.7,4,0,0.067
+1003,jute cooked,32,0.2,6.3,0.9,3.2,1.7,0,0.043
+1004,red lettuce,4,0.08,0.6,0.1,0.4,0.3,0,0.057
+1005,broccoli cooked,98,1.1,20.1,3.9,6.7,9.2,0,0.1
+1006,romanesco raw,20,0.2,3.9,1.9,1.9,2,0,0.025
+1007,eggplant raw,115,0.8,26.9,16.2,4.5,13.7,0,0.028
+1008,leeks raw,54,0.3,12.6,3.5,1.3,1.6,0,0.003
+1009,lemongrass citronella,5,0.076,1.2,0,0.038,0,0,0.024
+1010,pumpkin cooked,49,0.2,12,5.1,1.8,2.7,0,0.006
+1011,celery cooked,7,0.098,1.5,0.9,0.3,0.6,0,0.093
+1012,serrano pepper,2,0.075,0.4,0.2,0.1,0.2,0,0.067
+1013,nopales raw,14,0.063,2.9,1,1.1,1.9,0,0.076
+1014,sweet potato leaves cooked,22,0.2,4.7,3.5,1.4,1.2,0,0.2
+1015,eggplant cooked,33,0.2,8.1,3.2,0.8,2.5,0,0.2
+1016,asparagus cooked,3,0.074,0.6,0.2,0.4,0.3,0,0
+1017,rutabaga cooked,72,0.4,16.4,9.5,2.2,4.3,0,0.049
+1018,parsnips raw,128,0.5,30.6,8.2,2,8.3,0,0.068
+1019,sour pickles,17,0.3,3.5,1.6,0.5,1.9,0,1.9
+1020,turnip greens cooked,29,0.3,6.3,0.8,1.6,5,0,0.4
+1021,jerusalem artichokes,110,0.047,26.2,14.4,3,2.4,0,0.011
+1022,collard raw,12,0.2,2,0.2,1.1,1.4,0,0.014
+1023,chrysanthemum cooked,20,0.036,4.3,2,1.6,2.3,0,0.042
+1024,oriental radish dried,314,0.8,73.5,43.3,9.2,27.7,0,0.3
+1025,tomatillos,42,1.3,7.7,5.2,1.3,2.5,0,0.019
+1026,taro shoots raw,9,0.069,2,0,0.8,0,0,0.056
+1027,acorn squash raw,172,0.4,44.9,0,3.4,6.5,0,0.017
+1028,leeks dried,10,0.026,2.4,0,0.5,0.3,0,0.077
+1029,cabbage raw,70,0.3,16.2,9,3.6,7,0,0.006
+1030,sweet red peppers cooked,19,0.1,4.5,3.2,0.7,0.9,0,0.2
+1031,sweet red peppers raw,46,0.4,9,6.3,1.5,3.1,0,0.092
+1032,cucumber peeled,16,0.2,2.9,1.8,0.8,0.9,0,0.098
+1033,purslane raw,9,0.2,1.5,0,0.9,0,0,0.066
+1034,peas onions cooked,81,0.4,15.5,6.8,4.6,4,0,0.5
+1035,tomato cooked,22,0.1,4.9,3.1,1.2,0.9,0,0.029
+1036,taro shoots cooked,20,0.1,4.5,0,1,0,0,0.3
+1037,scots kale raw,28,0.4,5.6,0,1.9,1.1,0,0.059
+1038,artichoke raw,60,0.2,13.5,1.3,4.2,6.9,0,0.1
+1039,navy bean sprouts raw,70,0.7,13.6,0,6.4,0,0,0.063
+1040,sweet pickles,146,0.7,33.8,29.2,0.9,1.6,0,0.7
+1041,oriental radish cooked,25,0.4,5,2.7,1,2.4,0,0.4
+1042,sweet potato leaves raw,15,0.2,3.1,0,0.9,1.9,0,0.073
+1043,irishmoss,2,0.049,0.6,0.098,0.037,0.082,0,0.084
+1044,drumstick leaves cooked,25,0.4,4.7,0.4,2.2,0.8,0,0.1
+1045,winter squash raw,39,0.2,10,2.6,1.1,1.7,0,0.027
+1046,pumpkin raw,30,0.1,7.5,3.2,1.2,0.6,0,0.062
+1047,chicory greens,7,0.096,1.4,0.2,0.5,1.2,0,0.017
+1048,spinach cooked,41,0.5,6.8,0.8,5.3,4.3,0,0.1
+1049,radish pickled,42,0.5,7.8,3,1.7,3.3,0,1.2
+1050,sweet onion,106,0.3,25,16.6,2.6,3,0,0.063
+1051,salsify cooked,92,0.2,20.7,3.9,3.7,4.2,0,0.028
+1052,radish seeds sprouted,16,1,1.4,0,1.4,0,0,0.067
+1053,turnips raw,51,0.2,11.8,7,1.6,3.3,0,0.1
+1054,burdock root raw,85,0.2,20.5,3.4,1.8,3.9,0,0.008
+1055,red cabbage cooked,49,0.2,11.8,5.6,2.6,4.4,0,0.047
+1056,jute raw,10,0.046,1.6,0,1.3,0,0,0.042
+1057,hot chile pepper dried,2,0.054,0.3,0.2,0.054,0.1,0,0.041
+1058,salsify raw,109,0.3,24.7,0,4.4,4.4,0,0.093
+1059,crookneck squash raw,24,0.3,4.9,4.5,1.3,1.3,0,0.047
+1060,indian squash cooked,38,0.4,7.6,4.7,0.7,3.5,0,0
+1061,poi,269,0.3,65.4,0.9,0.9,1,0,0.091
+1062,sesbania flower cooked,22,0.007,5.3,0,1.2,0,0,0.3
+1063,acorn squash cooked,115,0.3,29.9,0,2.3,9,0,0.5
+1064,cauliflower cooked,29,0.6,5.1,2.6,2.3,2.9,0,0.094
+1065,crookneck squash cooked,34,0.7,6.8,4.5,1.9,2,0,0.4
+1066,laver seaweed,1,0.012,0.1,0.071,0.2,0.09,0,0.075
+1067,mountain yam cooked,119,0.1,29,0,2.5,0,0,0.4
+1068,pumpkin flowers raw,5,0.084,1.1,0,0.3,0,0,0.066
+1069,mustard greens raw,15,0.2,2.6,0.7,1.6,1.8,0,0.004
+1070,arrowhead,12,0.084,2.4,0,0.6,0,0,0.082
+1071,japanese cabbage,45,0.2,8.5,2,2.4,4.7,0,0.4
+1072,mung bean sprouts cooked,24,0.1,4.5,3.5,2.5,1,0,0.3
+1073,scallop squash cooked,29,0.3,5.9,2.7,1.9,3.4,0,0.4
+1074,pumpkin leaves cooked,15,0.2,2.4,0.5,1.9,1.9,0,0.2
+1075,hungarian pepper,8,0.1,1.8,1,0.2,0.3,0,0.028
+1076,sweet potato baked,103,0.2,23.6,7.4,2.3,3.8,0,0.07
+1077,chinese cabbage pe tsai raw,12,0.2,2.5,1.1,0.9,0.9,0,0.049
+1078,taro raw,116,0.2,27.5,0.4,1.6,4.3,0,0.054
+1079,yam bean jicama,49,0.1,11.5,2.3,0.9,6.4,0,0.047
+1080,olives,10,0.9,0.5,0,0.09,0.1,0,0.001
+1081,mustard greens cooked,36,0.7,6.3,2,3.6,2.8,0,0.4
+1082,pumpkin flowers cooked,20,0.1,4.4,3.2,1.5,1.2,0,0.082
+1083,tree fern cooked,57,0.096,15.3,0,0.4,5.3,0,0.3
+1084,yellow corn raw,606,7.9,123.3,1.1,15.6,12.1,0,0.06
+1085,endive,9,0.1,1.7,0.1,0.6,1.6,0,0.08
+1086,wakame,36,0.5,7.3,0.5,2.4,0.4,0,0.7
+1087,tahitian taro raw,55,1.2,8.6,0,3.5,0,0,0.003
+1088,broccoli raw,31,0.3,6,1.5,2.6,2.4,0,0.049
+1089,sweet green peppers raw,30,0.3,6.9,3.6,1.3,2.5,0,0.023
+1090,chinese cabbage pak choi cooked,20,0.3,3,1.4,2.7,1.7,0,0.5
+1091,agar,1,0.058,0.3,0.005,0.053,0.027,0,0.049
+1092,watercress,4,0.006,0.4,0.099,0.8,0.2,0,0.038
+1093,beet greens cooked,39,0.3,7.9,0.9,3.7,4.2,0,0.3
+1094,winter squash cooked,76,0.7,18.1,6.8,1.8,5.7,0,0.068
+1095,new zealand spinach raw,8,0.1,1.4,0.2,0.8,0.8,0,0.017
+1096,okra,4,0.082,0.9,0.2,0.2,0.4,0,0.098
+1097,yautia tannier,132,0.5,31.9,0,2,2,0,0.031
+1098,mustard spinach cooked,29,0.4,5,0,3.1,3.6,0,0.5
+1099,rhubarb cooked,278,0.1,74.9,68.9,0.9,4.8,0,0.007
+1100,beets raw,58,0.2,13,9.2,2.2,3.8,0,0.1
+1101,drumstick pods raw,37,0.2,8.5,0,2.1,3.2,0,0.077
+1102,baby zucchini,2,0.089,0.3,0,0.3,0.1,0,0.041
+1103,onion raw,16,0.048,3.7,1.7,0.4,0.7,0,0.065
+1104,romanesco cooked,39,0.4,7.7,0,3.7,4,0,0.3
+1105,butternut squash raw,90,0.2,23.4,4.4,2,4,0,0.067
+1106,amaranth leaves,6,0.075,1.1,0,0.7,0,0,0.071
+1107,turnip greens raw,18,0.2,3.9,0.4,0.8,1.8,0,0.012
+1108,spaghetti squash raw,31,0.6,7,2.8,0.6,1.5,0,0.081
+1109,seaweed dry,52,0.3,9.2,0,3.1,7.3,6.6,0.9
+1110,yam cooked,158,0.2,37.4,0.7,2,5.3,0,0.017
+1111,corn dried,119,3,18.8,6,4.1,5.8,0,0.029
+1112,cucumber,23,0.2,5.4,2.5,1,0.8,0,0.061
+1113,arrowroot,78,0.2,16.1,0,5.1,1.6,0,0.052
+1114,cardoon raw,30,0.2,7.2,0,1.2,2.8,0,0.3
+1115,bamboo shoots cooked,14,0.3,2.3,0,1.8,1.2,0,0.04
+1116,summer squash raw,42,0.5,8.7,5.7,3.1,2.9,0,0.051
+1117,sweet potato raw,112,0.002,26.2,5.4,2,3.9,0,0.079
+1118,green tomato,42,0.4,9.3,7.3,2.2,2,0,0.055
+1119,beet greens raw,8,0.078,1.6,0.2,0.8,1.4,0,0.013
+1120,savoy cabbage cooked,41,0.2,9.2,0,3.1,4.8,0,0.05
+1121,witloof chicory,9,0.031,2.1,0,0.5,1.6,0,0.022
+1122,turnips cooked,34,0.1,7.9,4.7,1.1,3.1,0,0.017
+1123,dried tomatoes,5,0.053,1.1,0.8,0.3,0.2,0,0.069
+1124,radicchio,15,0.2,2.9,0.4,0.9,0.6,0,0.033
+1125,mixed vegetables cooked,118,0.3,23.8,5.7,5.2,8,0,0.089
+1126,yellow tomato,32,0.6,6.3,0,2.1,1.5,0,0.088
+1127,cardoon cooked,26,0.1,6.4,0,0.9,2,0,0.2
+1128,spinach raw,7,0.1,1.1,0.1,0.9,0.7,0,0.036
+1129,kale raw,7,0.3,0.9,0.2,0.6,0.9,0,0.045
+1130,drumstick pods cooked,42,0.2,9.7,0,2.5,5,0,0.3
+1131,kohlrabi raw,72,0.3,16.4,6.9,4.5,9.5,0,0.063
+1132,lentil sprouts,82,0.4,17,0,6.9,0,0,0.044
+1133,carrots raw,25,0.1,5.8,2.9,0.6,1.7,0,0.024
+1134,red chili peppers,18,0.2,4,2.4,0.8,0.7,0,0.03
+1135,fennel,73,0.5,17.1,0,2.9,7.3,0,0.1
+1136,sweet corn white,63,0.9,13.9,2.4,2.4,2,0,0.016
+1137,celeriac raw,66,0.5,14.4,2.5,2.3,2.8,0,0.2
+1138,hubbard squash raw,46,0.6,10.1,4.6,2.3,4.5,0,0.094
+1139,brussels sprouts cooked,8,0.1,1.5,0.4,0.5,0.5,0,0.051
+1140,carrots cooked,16,0.092,3.8,1.6,0.3,1.4,0,0.025
+1141,lambs quarters raw,0,0.067,0.069,0,0.08,0.046,0,0.033
+1142,lotus root cooked,6,0.056,1.4,0,0.1,0.3,0,0
+1143,split peas raw,672,2.3,118.9,15.8,48.4,50.2,0,0.075
+1144,scots kale cooked,36,0.5,7.3,0,2.5,0,0,0.4
+1145,corn cooked,99,1.5,21.6,4.7,3.5,2.5,0,0.039
+1146,radish raw,1,0.026,0.2,0.066,0.042,0.002,0,0.033
+1147,stinging nettles,37,0.007,6.7,0.2,2.4,6.1,0,0.09
+1148,baby carrots,5,0.053,1.2,0.7,0.031,0.4,0,0.097
+1149,sweet yellow peppers,50,0.4,11.8,0,1.9,1.7,0,0.017
+1150,taro leaves raw,12,0.2,1.9,0.8,1.4,1,0,0.083
+1151,corn raw,123,1.9,26.7,9,4.7,2.9,0,0.083
+1152,roselle,28,0.4,6.4,0,0.5,0,0,0.079
+1153,drumstick leaves raw,13,0.3,1.7,0,2,0.4,0,0.071
+1154,scallop squash raw,23,0.3,5,3.1,1.6,1.6,0,0.075
+1155,chicory roots,65,0.2,15.8,7.9,1.3,1.4,0,0.055
+1156,brussels sprouts raw,8,0.077,1.7,0.4,0.6,0.7,0,0.049
+1157,kale cooked,42,1.4,6.3,1.4,3.5,4.7,0,0.018
+1158,pupusas con frijoles,289,11.4,39.7,1.6,7,7.3,0,0.4
+1159,mustard cabbage,36,0.1,7.2,1.8,1.4,4,0,0.9
+1160,gourd raw,19,0.2,4.1,1.9,1.1,1,0,0.03
+1161,butternut squash cooked,80,0.2,21,3.9,1.8,6.4,0,0.002
+1162,burdock root cooked,146,0.2,35.1,5.9,3.5,3,0,0.4
+1163,cassava,330,0.6,78.4,3.5,2.8,3.7,0,0.099
+1164,peas carrots cooked,77,0.7,16.2,7,4.9,5,0,0.5
+1165,romaine lettuce,8,0.1,1.5,0.6,0.6,1,0,0.083
+1166,yam raw,177,0.3,41.8,0.8,2.3,6.2,0,0.017
+1167,chowchow pickles,296,2.2,65.3,58.5,3.7,3.7,0,1.3
+1168,prairie turnips raw,20,0.029,4.5,0.1,0.3,1,0,0.059
+1169,savoy cabbage raw,19,0.017,4.3,1.6,1.4,2.2,0,0.007
+1170,celery raw,6,0.045,1.2,0.5,0.3,0.6,0,0.019
+1171,celeriac cooked,42,0.3,9.1,0,1.5,0,0,0.084
+1172,mustard spinach raw,33,0.5,5.9,0,3.3,4.2,0,0.025
+1173,zucchini raw,44,0.8,8.1,6.5,3.1,2.6,0,0.023
+1174,okra cooked,35,0.3,7.2,3.8,3,4,0,0.4
+1175,white icicle radish,14,0.1,2.6,0,1.1,1.4,0,0.049
+1176,orange tomato,18,0.2,3.5,0,1.3,1,0,0.001
+1177,pumpkin leaves raw,7,0.2,0.9,0,1.2,0,0,0.057
+1178,spaghetti squash cooked,42,0.4,10,3.9,1,2.2,0,0.4
+1179,white corn cooked,100,1.5,22.4,8,3.4,2.8,0,0.082
+1180,artichoke cooked,64,0.4,14.3,1.2,3.5,10.3,0,0.087
+1181,avocado,432,39.6,23,1.8,5.4,18.1,0,0.045
+1182,string beans wellsley farms,8,0,1.7,0.3,0.3,0.087,1,0
+1183,lambs quarters cooked,58,1.3,9,1.1,5.8,3.8,0,0.5
+1184,peas cooked,134,0.4,25,9.5,8.6,8.8,0,0.074
+1185,beets cooked,22,0.085,5,4,0.8,1,0,0.035
+1186,shallots dried,3,0.013,0.7,0.3,0.1,0.1,0,0.059
+1187,green lettuce,23,0.2,4.3,1.2,2,2,0,0.05
+1188,kohlrabi cooked,48,0.2,11,4.6,3,1.8,0,0.035
+1189,kanpyo dried,139,0.3,35.1,0,4.6,5.3,0,0.056
+1190,prairie turnips boiled,18,0.086,4.2,0.7,0.2,1,0,0.012
+1191,broccoli raab cooked,21,0.4,2.7,0.5,3.3,2.4,0,0.077
+1192,summer squash cooked,49,1,9.9,6.4,2.7,2.9,0,0.036
+1193,taro cooked,187,0.1,45.7,0.6,0.7,6.7,0,0.055
+1194,spring onion scallions,6,0.077,1.5,0.5,0.4,0.5,0,0.048
+1195,hubbard squash cooked,57,0.7,12.3,5.6,2.8,5.5,0,0.5
+1196,jalapeno pepper,4,0.002,0.9,0.6,0.1,0.4,0,0.028
+1197,new zealand spinach cooked,22,0.3,3.8,0.5,2.3,2.5,0,0.6
+1198,sesbania flower raw,1,0.095,0.2,0,0.012,0,0,0.007
+1199,spirulina dried,20,0.5,1.7,0.2,4,0.3,0,0.031
+1200,chinese cabbage pe tsai cooked,17,0.2,2.9,0,1.8,2,0,0.3
+1201,zucchini cooked,27,0.6,4.8,3.1,2.1,1.8,0,0.077
+1202,green olives pickled,4,0.4,0.1,0.051,0.073,0.057,0,0.1
+1203,lotus root raw,85,0.1,19.8,0,3,5.6,0,0.06
+1204,grape leaves,13,0.3,2.4,0.9,0.8,1.5,0,0.005
+1205,dill pickled cucumber,17,0.2,3.7,1.9,0.9,1.6,0,1.3
+1206,skunk cabbage,11,0.1,1.8,0,1.5,1.2,0,0.016
+1207,banana pepper,9,0.1,1.8,0.6,0.5,1.1,0,0.039
+1208,oriental radish raw,61,0.3,13.9,8.5,2,5.4,0,0.014
+1209,purslane cooked,21,0.2,4.1,0,1.7,0,0,0.3
+1210,rhubarb raw,11,0.1,2.3,0.6,0.5,0.9,0,0.058
+1211,swamp cabbage,20,0.2,3.6,0,2,1.9,0,0.4
+1212,mung bean sprouts raw,6,0.044,1.2,0.8,0.6,0.4,0,0.08
+1213,onion cooked,7,0.034,1.5,0.7,0.2,0.2,0,0.04
+1214,swiss chard raw,7,0.042,1.3,0.4,0.6,0.6,0,0.089
+1215,peas raw,117,0.6,21,8.2,7.9,7.4,0,0.017
+1216,cabbage cooked,35,0.019,8.3,4.2,1.9,2.9,0,0.011
+1217,taro leaves cooked,35,0.6,5.6,0,3.9,2.9,0,0.3
+1218,leeks cooked,38,0.2,9.4,2.6,1,1.2,0,0.067
+1219,split peas cooked,227,0.8,40.2,5.7,16.3,16.3,0,0.5
+1220,sweet corn yellow,58,0.4,14.2,2.6,4.1,1.5,0,0.05
+1221,asparagus raw,2,0.037,0.5,0.2,0.3,0.3,0,0.047
+1222,collard cooked,63,1.4,10.7,0,5.1,7.6,0,0.013
+1223,swiss chard cooked,35,0.1,7.2,1.9,3.3,3.7,0,0.7
+1224,nopales cooked,22,0.003,4.9,1.7,2,3,0,0.087
+1225,tahitian taro cooked,60,0.9,9.4,0,5.7,0,0,0.4
+1226,chinese cabbage pak choi raw,9,0.1,1.5,0.8,1.1,0.7,0,0.087
+1227,green chili pepper,18,0.097,4.3,2.3,0.9,0.7,0,0.023
+1228,mountain yam raw,91,0.1,22.2,0.4,1.8,3.4,0,0.021
+1229,parsnips cooked,114,0.5,27.2,7.7,2.1,6.4,0,0.021
+1230,tomato stewed,97,3.3,16.1,0,2.4,2.1,0,0.6
+1231,sweet green peppers cooked,19,0.1,4.5,2.3,0.7,0.9,0,0.2
+1232,white corn raw,143,2,31.6,5.3,5.3,4.5,0,0.088
+1233,rutabaga raw,286,1.2,66.5,34.4,8.3,17.8,0,0.061
+1234,jalapeno peppers canned,37,1.3,6.4,2.9,1.3,3.5,0,2.3
+1235,pumpkin canned,83,0.7,19.8,8.1,2.7,7.1,0,0.6
+1236,peas onions canned,61,0.5,10.3,0,3.9,2.8,0,0.5
+1237,sweet mashed potato canned,258,0.5,59.1,13.9,5,4.3,0,0.2
+1238,hominy canned,119,1.5,23.5,3,2.4,4.1,0,0.6
+1239,tomato puree canned,95,0.5,22.5,12.1,4.1,4.8,0,0.002
+1240,dried tomatoes canned in oil,6,0.4,0.7,0,0.2,0.2,0,0.056
+1241,mixed vegetables canned,88,0.6,17.5,0,3.5,9.3,0,0.5
+1242,straw mushrooms canned,2,0.09,0.3,0,0.2,0.1,0,0.049
+1243,capers canned,2,0.089,0.4,0.011,0.2,0.3,0,0.2
+1244,red peppers canned,15,0.058,3.7,2.4,0.7,0.9,0,0.9
+1245,carrots canned,104,0.6,24.4,11.2,2.6,8.2,0,0.2
+1246,tomatoes in tomato juice canned,41,0.3,9.6,5.7,1.9,2.4,0,0.3
+1247,asparagus canned,62,0.7,10.2,4.1,7.4,4.1,0,0.1
+1248,sweet red peppers canned,25,0.4,5.5,0,1.1,1.7,0,1.9
+1249,onions canned,12,0.084,2.5,1.4,0.5,0.8,0,0.2
+1250,turnip greens canned,27,0.4,4,0.6,2,1.9,0,0.082
+1251,hearts of palm,9,0.2,1.5,0,0.8,0.8,0,0.1
+1252,spinach canned,44,0.9,6.8,0,4.9,3.7,0,0.7
+1253,sweet potato canned,568,1.3,133.5,98.3,6.3,16,0,0.3
+1254,corn canned,49,0.6,11.1,3.3,1.6,1.4,0,0.2
+1255,peas carrots canned,97,0.7,21.6,7.2,5.5,8.4,0,0.7
+1256,crookneck squash canned,27,0.1,6.2,2.5,1.3,2.9,0,0.006
+1257,tomatoes canned,77,0.7,17.6,10.6,4,4.6,0,0.3
+1258,pimento canned,44,0.6,9.8,5.2,2.1,3.6,0,0.006
+1259,sweet green peppers canned,25,0.4,5.5,0,1.1,1.7,0,1.9
+1260,peas canned,57,0.8,9.5,0,3.5,0,0,0.2
+1261,chili peppers canned,29,0.4,6.4,0,1,2.4,0,0.6
+1262,green peppers canned,15,0.074,3.7,2.3,0.7,0.9,0,0.9
+1263,grape leaves canned,20,0.6,3.3,0,1.2,2.8,0,0.8
+1264,sauerkraut canned,27,0.2,6.1,2.5,1.3,4.1,0,0.9
+1265,beets canned,69,0.2,16.2,13.2,2,3,0,0.02
+1266,stewed tomatoes canned,66,0.5,15.8,9,2.3,2.6,0,0.6
+1267,tomato paste canned,215,1.2,49.5,31.9,11.3,10.7,0,2.1
+1268,bacon ranch salad mcdonalds,389,20.1,19.4,4.9,28.1,3.2,70.2,0.9
+1269,caesar salad with grilled chicken mcdonalds,201,5.6,11.3,4.8,29.1,3.3,71,0.6
+1270,caesar salad mcdonalds,94,4.4,9.1,4.4,6.8,3.4,10.7,0.2
+1271,vegetable salad,22,0.054,4.4,0,1.7,0,0,0.025
+1272,vegetable salad with chicken,70,1.5,2.5,0,11.6,0,47.9,0.1
+1273,potato salad,358,20.5,27.9,0,6.7,3.3,170,1.3
+1274,taco salad taco bell,906,48.9,80.5,0,35.7,16,101.3,1.9
+1275,iceberg lettuce,8,0.045,1.7,1.1,0.5,0.7,0,0.022
+1276,cornsalad,12,0.2,2,0,1.1,0,0,0.067
+1277,potato salad with egg,393,23.5,40.5,12.4,4.9,3.3,42.5,0.8
+1278,side salad mcdonalds,17,0.2,3.7,1.9,0.9,1.4,0,0.037
+1279,caesar salad with crispy chicken mcdonalds,349,16.4,19.2,4.5,25.7,3.4,55.6,0.7
+1280,grape apple salad with walnuts,191,8.2,25.6,20.3,3.5,3.6,1.6,0.087
+1281,vegetable salad with cheese egg,68,3.9,3.2,0,5.8,0,65.1,0.044
+1282,celtuce,1,0.088,0.3,0,0.071,0.1,0,0.094
+1283,arugula,5,0.1,0.7,0.4,0.5,0.3,0,0.018
+1284,vegetable salad with shrimp,71,1.7,4.4,0,9.7,0,119.5,0.3
+1285,coleslaw,292,18.9,28.4,23.3,1.8,3.6,7.6,0.4
+1286,shiitake mushrooms cooked,10,0.007,2.6,0.7,0.3,0.4,0,0.048
+1287,shiitake mushrooms raw,6,0.039,1.3,0.5,0.4,0.5,0,0.096
+1288,crimini mushrooms,1,0.018,0.3,0.1,0.2,0.064,0,0.086
+1289,mushrooms raw,15,0.2,2.3,1.4,2.2,0.7,0,0.053
+1290,portabella mushrooms grilled,35,0.7,5.4,2.7,4,2.7,0,0.047
+1291,maitake mushrooms,0,0.017,0.072,0.043,0.016,0.041,0,0.059
+1292,shiitake mushrooms dried,11,0.061,2.7,0.046,0.3,0.4,0,0.086
+1293,chanterelle mushrooms,2,0.063,0.4,0.076,0.033,0.2,0,0.028
+1294,cloud ear fungus dried,80,0.2,20.4,0,2.6,19.6,0,0.036
+1295,mushrooms cooked,44,0.7,8.3,3.7,3.4,3.4,0,0.011
+1296,pepeao dried,72,0.1,19.4,0,1.2,0,0,0.072
+1297,truffles,61,4.1,5.4,4.6,0.7,0.3,6.4,0.034
+1298,jews ear,25,0.095,6.7,0,0.5,0,0,0.027
+1299,enoki mushrooms,1,0.099,0.2,0.034,0.062,0.089,0,0.084
+1300,morel mushrooms,4,0.07,0.7,0.096,0.4,0.4,0,0.08
+1301,portabella mushrooms raw,19,0.3,3.3,2.2,1.8,1.1,0,0.014
+1302,oyster mushroom,5,0.035,0.9,0.2,0.5,0.3,0,0.098
