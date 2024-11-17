@@ -103,77 +103,77 @@ class TwoTowerModel(nn.Module):
         dot_product = torch.sum(user * item, dim=-1)
         return dot_product
 
+if __name__ == "__main__":
+    # ------- Model training and validation --------- 
 
-# ------- Model training and validation --------- 
+    # Initialize the model, loss function, and optimizer 
+    user_input_dim = X_user_train.shape[1] 
+    food_input_dim = X_food_train.shape[1] 
+    model = TwoTowerModel(user_input_dim, food_input_dim).to(device) 
+    criterion = nn.BCEWithLogitsLoss() 
+    optimizer = optim.Adam(model.parameters(), lr=0.0001) 
 
-# Initialize the model, loss function, and optimizer 
-user_input_dim = X_user_train.shape[1] 
-food_input_dim = X_food_train.shape[1] 
-model = TwoTowerModel(user_input_dim, food_input_dim).to(device) 
-criterion = nn.BCEWithLogitsLoss() 
-optimizer = optim.Adam(model.parameters(), lr=0.0001) 
+    # Training model 
+    epochs = 20 
+    for epoch in range(epochs): 
+        model.train() 
+        train_loss = 0 
+        correct_train = 0
+        total_train = 0
 
-# Training model 
-epochs = 20 
-for epoch in range(epochs): 
-    model.train() 
-    train_loss = 0 
-    correct_train = 0
-    total_train = 0
-
-    for user_input, food_input, label in train_loader: 
-        user_input = user_input.to(device)
-        food_input = food_input.to(device)
-        label = label.to(device)
-
-        optimizer.zero_grad() 
-        scores = model(user_input, food_input)
-        scores = scores.view(-1, 1)
-        loss = criterion(scores, label) 
-        loss.backward() 
-        optimizer.step() 
-
-        train_loss += loss.item()  
-        predictions = torch.sigmoid(scores) 
-        predicted_labels = (predictions > 0.5).float()
-        correct_train += (predicted_labels == label).sum().item()
-        total_train += label.size(0)
-    train_accuracy = correct_train / total_train
-
-# Val model 
-    model.eval() 
-    val_loss = 0 
-    correct_val = 0
-    total_val = 0
-    with torch.no_grad(): 
-        for user_input, food_input, label in val_loader: 
+        for user_input, food_input, label in train_loader: 
             user_input = user_input.to(device)
             food_input = food_input.to(device)
             label = label.to(device)
-        
-            scores = model(user_input, food_input) 
+
+            optimizer.zero_grad() 
+            scores = model(user_input, food_input)
             scores = scores.view(-1, 1)
             loss = criterion(scores, label) 
-            val_loss += loss.item() 
+            loss.backward() 
+            optimizer.step() 
 
-            predictions = torch.sigmoid(scores)
+            train_loss += loss.item()  
+            predictions = torch.sigmoid(scores) 
             predicted_labels = (predictions > 0.5).float()
-            correct_val += (predicted_labels == label).sum().item()
-            total_val += label.size(0)
-    val_accuracy = correct_val / total_val
+            correct_train += (predicted_labels == label).sum().item()
+            total_train += label.size(0)
+        train_accuracy = correct_train / total_train
 
-    print(f"Epoch {epoch+1}/{epochs}, "
-          f"Training Loss: {train_loss/len(train_loader):.4f}, "
-          f"Training Accuracy: {train_accuracy:.4f}, "
-          f"Validation Loss: {val_loss/len(val_loader):.4f}, "
-          f"Validation Accuracy: {val_accuracy:.4f}")
+    # Val model 
+        model.eval() 
+        val_loss = 0 
+        correct_val = 0
+        total_val = 0
+        with torch.no_grad(): 
+            for user_input, food_input, label in val_loader: 
+                user_input = user_input.to(device)
+                food_input = food_input.to(device)
+                label = label.to(device)
+            
+                scores = model(user_input, food_input) 
+                scores = scores.view(-1, 1)
+                loss = criterion(scores, label) 
+                val_loss += loss.item() 
+
+                predictions = torch.sigmoid(scores)
+                predicted_labels = (predictions > 0.5).float()
+                correct_val += (predicted_labels == label).sum().item()
+                total_val += label.size(0)
+        val_accuracy = correct_val / total_val
+
+        print(f"Epoch {epoch+1}/{epochs}, "
+              f"Training Loss: {train_loss/len(train_loader):.4f}, "
+              f"Training Accuracy: {train_accuracy:.4f}, "
+              f"Validation Loss: {val_loss/len(val_loader):.4f}, "
+              f"Validation Accuracy: {val_accuracy:.4f}")
 
 
 
-torch.save(model.state_dict(), 'trained_model.pth')
-print("model save to 'trained_model.pth'")
+    torch.save(model.state_dict(), 'trained_model.pth')
+    print("model save to 'trained_model.pth'")
 
-joblib.dump(scaler_user, 'scaler_user.pkl')
-joblib.dump(scaler_food, 'scaler_food.pkl')
-print("StandardScaler save to 'scaler_user.pkl' and 'scaler_food.pkl'")
+    joblib.dump(scaler_user, 'scaler_user.pkl')
+    joblib.dump(scaler_food, 'scaler_food.pkl')
+    print("StandardScaler save to 'scaler_user.pkl' and 'scaler_food.pkl'")
 
