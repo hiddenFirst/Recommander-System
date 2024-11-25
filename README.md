@@ -67,23 +67,27 @@ Install the following dependencies:
 ## How to Use
 1. Train the Model
    Run recommander.py to train the model and save the trained parameters:
+   ```
    ├── python recommander.py
+   ```
    
    After training, the following files will be generated:
 
-   trained_model.pth: Saved model parameters.
-   scaler_user.pkl: User feature scaler.
-   scaler_food.pkl: Food feature scaler.
+   ```trained_model.pth```: Saved model parameters.
+   ```scaler_user.pkl```: User feature scaler.
+   ```scaler_food.pkl```: Food feature scaler.
    
 3. Use the Recommendation System
    Run interact.py for an interactive recommendation system:
+   ```
    ├── python interact.py
+   ```
    Provide your nutritional requirements in the following format (comma-separated):
-
+   ```
    Enter the following format:
    User ID, User Caloric Value, User Fat Limit, User Carbohydrates Limit, User Sugar Limit, 
    User Protein Min, User Dietary Fiber Min, User Cholesterol Limit, User Sodium Limit
 
    Example input:
    1, 2000, 70, 300, 50, 60, 30, 200, 1500
-
+   ```
