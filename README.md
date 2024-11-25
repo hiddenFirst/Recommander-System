@@ -74,10 +74,13 @@ Install the following dependencies:
    After training, the following files will be generated:
 
    ```trained_model.pth```: Saved model parameters.
-   ```scaler_user.pkl```: User feature scaler.
-   ```scaler_food.pkl```: Food feature scaler.
    
-3. Use the Recommendation System
+   ```scaler_user.pkl```: User feature scaler.
+   
+   ```scaler_food.pkl```: Food feature scaler.
+
+   
+2. Use the Recommendation System
    Run interact.py for an interactive recommendation system:
    ```
    ├── python interact.py
@@ -91,3 +94,5 @@ Install the following dependencies:
    Example input:
    1, 2000, 70, 300, 50, 60, 30, 200, 1500
    ```
+
+If you don't want to train the model yourself, you can download the ```trained_model.pth```, ```scaler_user.pkl```, ```scaler_food.pkl``` into your directory and run ```python interact.py```.
