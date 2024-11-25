@@ -8,8 +8,16 @@ Unzip the datset in same directory to get a `combined_Dataset.csv`
 
 ## Project Structure
 '''
-├── recommander.py # Model training script ├── interact.py # Interactive recommendation script ├── FOOD-DATA-GROUP-Prossced.csv # Original food dataset ├── combined_Dataset.csv # User-food paired dataset (for training) ├── trained_model.pth # Trained model ├── scaler_user.pkl # Standard scaler for user features ├── scaler_food.pkl # Standard scaler for food features ├── README.md # Project description
+├── recommander.py           # Model training script
+├── interact.py              # Interactive recommendation script
+├── FOOD-DATA-GROUP-Prossced.csv  # Original food dataset
+├── combined_Dataset.csv      # User-food paired dataset (for training)
+├── trained_model.pth         # Trained model
+├── scaler_user.pkl           # Standard scaler for user features
+├── scaler_food.pkl           # Standard scaler for food features
+├── README.md                 # Project description
 '''
+
 
 ## Features
 1. Model Training:
